@@ -1,0 +1,59 @@
+
+<local-path-redacted>     file format binary
+
+
+Disassembly of section .data:
+
+00781f77 <.data+0x781f77>:
+  781f77:	36 8b 3e ba 09       	mov    %ss:0x9ba,%di
+  781f7c:	36 8e 1e b8 09       	mov    %ss:0x9b8,%ds
+  781f81:	33 d2                	xor    %dx,%dx
+  781f83:	8a 15                	mov    (%di),%dl
+  781f85:	80 fa fc             	cmp    $0xfc,%dl
+  781f88:	75 03                	jne    0x781f8d
+  781f8a:	e9 e8 00             	jmp    0x782075
+  781f8d:	80 fa ff             	cmp    $0xff,%dl
+  781f90:	75 03                	jne    0x781f95
+  781f92:	e9 93 01             	jmp    0x782128
+  781f95:	80 fa fe             	cmp    $0xfe,%dl
+  781f98:	75 03                	jne    0x781f9d
+  781f9a:	e9 e3 01             	jmp    0x782180
+  781f9d:	80 fa fa             	cmp    $0xfa,%dl
+  781fa0:	75 03                	jne    0x781fa5
+  781fa2:	e9 b0 01             	jmp    0x782155
+  781fa5:	80 fa f9             	cmp    $0xf9,%dl
+  781fa8:	75 03                	jne    0x781fad
+  781faa:	e9 37 02             	jmp    0x7821e4
+  781fad:	80 fa fd             	cmp    $0xfd,%dl
+  781fb0:	75 03                	jne    0x781fb5
+  781fb2:	e9 47 03             	jmp    0x7822fc
+  781fb5:	80 fa f8             	cmp    $0xf8,%dl
+  781fb8:	75 03                	jne    0x781fbd
+  781fba:	e9 5a 01             	jmp    0x782117
+  781fbd:	80 fa fb             	cmp    $0xfb,%dl
+  781fc0:	75 03                	jne    0x781fc5
+  781fc2:	e9 07 02             	jmp    0x7821cc
+  781fc5:	36 81 26 bc 09 ff bf 	andw   $0xbfff,%ss:0x9bc
+  781fcc:	36 f7 06 bc 09 10 00 	testw  $0x10,%ss:0x9bc
+  781fd3:	74 1c                	je     0x781ff1
+  781fd5:	36 81 0e bc 09 20 00 	orw    $0x20,%ss:0x9bc
+  781fdc:	36 80 3e bf 09 00    	cmpb   $0x0,%ss:0x9bf
+  781fe2:	74 06                	je     0x781fea
+  781fe4:	36 80 2e bf 09 01    	subb   $0x1,%ss:0x9bf
+  781fea:	36 81 26 bc 09 ef ff 	andw   $0xffef,%ss:0x9bc
+  781ff1:	8b c2                	mov    %dx,%ax
+  781ff3:	25 c0 00             	and    $0xc0,%ax
+  781ff6:	3d c0 00             	cmp    $0xc0,%ax
+  781ff9:	75 17                	jne    0x782012
+  781ffb:	8b ca                	mov    %dx,%cx
+  781ffd:	81 e1 0f 00          	and    $0xf,%cx
+  782001:	41                   	inc    %cx
+  782002:	33 d2                	xor    %dx,%dx
+  782004:	f7 e1                	mul    %cx
+  782006:	8a 55 01             	mov    0x1(%di),%dl
+  782009:	32 f6                	xor    %dh,%dh
+  78200b:	03 d0                	add    %ax,%dx
+  78200d:	36 ff 06 ba 09       	incw   %ss:0x9ba
+  782012:	e8 c9 06             	call   0x7826de
+  782015:	9a 04 b6 00 50       	lcall  $0x5000,$0xb604
+  78201a:	36 ff 06 ba 09       	incw   %ss:0x9ba

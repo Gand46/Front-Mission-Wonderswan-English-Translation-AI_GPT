@@ -1,0 +1,24 @@
+test_c8_supported (test_audit.AuditTests.test_c8_supported) ... ok
+test_expected_mapping_sizes (test_audit.AuditTests.test_expected_mapping_sizes) ... ok
+test_fd_special (test_audit.AuditTests.test_fd_special) ... ok
+test_ff_control_parameter_not_terminator (test_audit.AuditTests.test_ff_control_parameter_not_terminator) ... ok
+test_ff_trail_not_terminator (test_audit.AuditTests.test_ff_trail_not_terminator) ... ok
+test_japanese_preserved (test_audit.AuditTests.test_japanese_preserved) ... ok
+test_near_pointer_table (test_audit.AuditTests.test_near_pointer_table) ... ok
+test_production_lowercase (test_audit.AuditTests.test_production_lowercase) ... ok
+test_reject_text_as_table (test_audit.AuditTests.test_reject_text_as_table) ... ok
+test_bad_base_rejected (test_v032.BuildTests.test_bad_base_rejected) ... ok
+test_empty_patch (test_v032.BuildTests.test_empty_patch) ... ok
+test_eof_reserved_offset (test_v032.BuildTests.test_eof_reserved_offset) ... ok
+test_glyphs_fit_advance (test_v032.BuildTests.test_glyphs_fit_advance) ... ok
+test_invalid_header (test_v032.BuildTests.test_invalid_header) ... ok
+test_patch_bounds (test_v032.BuildTests.test_patch_bounds) ... ok
+test_patch_roundtrip (test_v032.BuildTests.test_patch_roundtrip) ... ok
+test_pixel_roundtrip (test_v032.BuildTests.test_pixel_roundtrip) ... ok
+test_rle (test_v032.BuildTests.test_rle) ... ok
+test_truncated_patch (test_v032.BuildTests.test_truncated_patch) ... ok
+
+----------------------------------------------------------------------
+Ran 19 tests in 0.299s
+
+OK

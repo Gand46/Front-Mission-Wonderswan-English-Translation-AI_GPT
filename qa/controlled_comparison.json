@@ -1,0 +1,50 @@
+[
+  {
+    "file": "record_2928_CONTROLLED.png",
+    "pixel_identical": true,
+    "baseline_sha256": "852490527484a334ec72e72b9c1ce57822b8fe6f8b14a4141c4daa1b9f6299fc",
+    "repaired_sha256": "852490527484a334ec72e72b9c1ce57822b8fe6f8b14a4141c4daa1b9f6299fc"
+  },
+  {
+    "file": "record_3227_CONTROLLED.png",
+    "pixel_identical": true,
+    "baseline_sha256": "854d44e6f87fac096c9637231863c13f15636b6b85afb7b5f9b37486f1809449",
+    "repaired_sha256": "854d44e6f87fac096c9637231863c13f15636b6b85afb7b5f9b37486f1809449"
+  },
+  {
+    "file": "record_3352_CONTROLLED.png",
+    "pixel_identical": true,
+    "baseline_sha256": "3d1cb157d4baa259af367648c8a82bf23741643b638753071ea6c7a65be10346",
+    "repaired_sha256": "3d1cb157d4baa259af367648c8a82bf23741643b638753071ea6c7a65be10346"
+  },
+  {
+    "file": "record_3353_CONTROLLED.png",
+    "pixel_identical": true,
+    "baseline_sha256": "671b1a82e4779222889b751f551968e9bdfcc4dcaeb633a77f40b971eef90890",
+    "repaired_sha256": "671b1a82e4779222889b751f551968e9bdfcc4dcaeb633a77f40b971eef90890"
+  },
+  {
+    "file": "record_3354_CONTROLLED.png",
+    "pixel_identical": true,
+    "baseline_sha256": "0da863f0073cf04d0a442096a7ee86ef193a749c80dcd3fa24827373634ac202",
+    "repaired_sha256": "0da863f0073cf04d0a442096a7ee86ef193a749c80dcd3fa24827373634ac202"
+  },
+  {
+    "file": "record_3355_CONTROLLED.png",
+    "pixel_identical": true,
+    "baseline_sha256": "43ced804a053a8a8524881db1d045b6c1dcc317a9155e9e16138f9a4af84e37b",
+    "repaired_sha256": "43ced804a053a8a8524881db1d045b6c1dcc317a9155e9e16138f9a4af84e37b"
+  },
+  {
+    "file": "record_3356_CONTROLLED.png",
+    "pixel_identical": true,
+    "baseline_sha256": "a823e3069be634c53bf919e1bd04430604767895b91bd9f28881e02f1a71c200",
+    "repaired_sha256": "a823e3069be634c53bf919e1bd04430604767895b91bd9f28881e02f1a71c200"
+  },
+  {
+    "file": "record_3357_CONTROLLED.png",
+    "pixel_identical": true,
+    "baseline_sha256": "639f641045f43d2ae5b59a75a926d6d3ae4b6e17d9bc5b5725c2230666e479e6",
+    "repaired_sha256": "639f641045f43d2ae5b59a75a926d6d3ae4b6e17d9bc5b5725c2230666e479e6"
+  }
+]

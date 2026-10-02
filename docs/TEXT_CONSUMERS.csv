@@ -1,0 +1,9 @@
+id,consumer,routine_class,routine_address,resource_class,resource_address,function,context,evidence,certainty
+FM-01,Main text decoder,NOT_IDENTIFIED,,ROM_FILE_OFFSET,0x7427C0,Decodes pointer entries,Main text,tools/common.py,structure_confirmed_routine_unknown
+FM-03,Primary renderer,ROM_FILE_OFFSET,0x78205F,ROM_FILE_OFFSET,0x7427C0,Word-aware boundary hook,Primary,history/v034/history/v033/tools/build_v033.py,hook_confirmed
+FM-03,Secondary renderer,ROM_FILE_OFFSET,0x76D233,ROM_FILE_OFFSET,0x7427C0,Word-aware boundary hook,Secondary,history/v034/history/v033/tools/build_v033.py,hook_confirmed
+FM-04,Sakata graphic decoder,CPU_SEGMENT_OFFSET,4000:6E86,ROM_FILE_OFFSET,0x749BF6,Decompresses caption graphic,Advertisement,history/v034/VALIDACION_ES.md,observed_natural
+FM-07,Native index selection,CPU_SEGMENT_OFFSET,E000:F9C5,ROM_FILE_OFFSET,0x7EC6A8,Selects 39 indices,Native ending,docs/VALIDACION_EPILOGO_ES.md,observed_synthetic
+FM-07,Native text lookup,CPU_SEGMENT_OFFSET,6000:CE20,ROM_FILE_OFFSET,0x7427C0,Reads main table and calls secondary renderer,Native ending,docs/VALIDACION_EPILOGO_ES.md,observed_synthetic
+FM-06,Legacy near-array consumer,NOT_IDENTIFIED,,ROM_FILE_OFFSET,0x7CC124,Root 3317 seven children,UNKNOWN,qa/epilogue_native/native_validation.json,not_identified
+FM-06,Legacy near-array consumer,NOT_IDENTIFIED,,ROM_FILE_OFFSET,0x7CC58C,Root 3339 eighteen children,UNKNOWN,qa/epilogue_native/native_validation.json,not_identified

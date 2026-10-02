@@ -1,0 +1,19 @@
+{
+  "tag": "v0.35-TEST",
+  "github_release_type": "prerelease",
+  "formal_release_candidate": false,
+  "asset": "Front_Mission_WSC_English_v0.35_TEST_Cumulative.bps",
+  "repository_path": "patches/v035_TEST_from_clean.bps",
+  "patch_format": "BPS1",
+  "patch_bytes": 157734,
+  "patch_sha256": "3834387947741d4ce57004d914a21021eea84138d44974735825ab300d99a954",
+  "patch_crc32": "7ad99dec",
+  "source_bytes": 8388608,
+  "source_sha256": "d1d21d5199971b345e9907861c04a080ac7b44e07303f96717fd7f603f9ba380",
+  "source_crc32": "2f9e2560",
+  "target_bytes": 8388608,
+  "target_sha256": "bed365a706e13338c8bebc17723fc40f3804a114520524d3ad62f180d44f42c0",
+  "target_crc32": "e8daee38",
+  "target_wonderswan_checksum": "BE92",
+  "rom_included": false
+}

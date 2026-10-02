@@ -1,0 +1,8 @@
+{
+  "release": "v3.2.0",
+  "asset": "xdelta3-3.2.0-linux-x86_64.tar.gz",
+  "sha256": "480295c7a41fea6503659f19ddc61676c0df4834e2292846ba97de30c68c2397",
+  "url": "https://github.com/jmacd/xdelta/releases/download/v3.2.0/xdelta3-3.2.0-linux-x86_64.tar.gz",
+  "bundled": false,
+  "commit": "ff322e592383227b0d65ddfde7e0e5bbc504dc15"
+}

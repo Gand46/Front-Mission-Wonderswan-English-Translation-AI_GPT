@@ -1,0 +1,471 @@
+{
+  "version": "v0.33-TEST",
+  "rom_sha256": "6c722fe5f3bbe7bf6ec371bc54a4ba801806e2c829b6ac72406b30445dd5ed41",
+  "runs": [
+    {
+      "name": "route",
+      "rom_sha256": "6c722fe5f3bbe7bf6ec371bc54a4ba801806e2c829b6ac72406b30445dd5ed41",
+      "execution": "PASS",
+      "evidence": "qa/route",
+      "report": {
+        "lua_frames": 24000,
+        "checkpoints": 15,
+        "route_completed": true,
+        "gameplay_assertions": false,
+        "memory_injection": false
+      }
+    },
+    {
+      "name": "primary",
+      "rom_sha256": "6c722fe5f3bbe7bf6ec371bc54a4ba801806e2c829b6ac72406b30445dd5ed41",
+      "execution": "PASS",
+      "evidence": "qa/primary",
+      "report": {
+        "lua_frames": 9014,
+        "controlled_pointer_substitution": true,
+        "rom_file_modified": false,
+        "cases": [
+          {
+            "source": 959,
+            "target": 545,
+            "reads": 2,
+            "captured": true
+          },
+          {
+            "source": 960,
+            "target": 486,
+            "reads": 2,
+            "captured": true
+          },
+          {
+            "source": 961,
+            "target": 1011,
+            "reads": 2,
+            "captured": true
+          },
+          {
+            "source": 955,
+            "target": 137,
+            "reads": 2,
+            "captured": true
+          },
+          {
+            "source": 956,
+            "target": 138,
+            "reads": 2,
+            "captured": true
+          },
+          {
+            "source": 957,
+            "target": 139,
+            "reads": 2,
+            "captured": true
+          },
+          {
+            "source": 958,
+            "target": 496,
+            "reads": 2,
+            "captured": true
+          },
+          {
+            "source": 962,
+            "target": 2099,
+            "reads": 2,
+            "captured": true
+          }
+        ],
+        "glyph_read_counts": {
+          "C6:41": 108,
+          "C6:42": 36,
+          "C6:43": 108,
+          "C6:44": 72,
+          "C6:47": 36,
+          "C6:48": 72,
+          "C6:49": 36,
+          "C6:4A": 36,
+          "C6:4C": 72,
+          "C6:4D": 72,
+          "C6:4E": 36,
+          "C6:4F": 108,
+          "C6:50": 72,
+          "C6:51": 72,
+          "C6:52": 36,
+          "C6:53": 36,
+          "C6:54": 36,
+          "C6:55": 36
+        }
+      }
+    },
+    {
+      "name": "secondary",
+      "rom_sha256": "6c722fe5f3bbe7bf6ec371bc54a4ba801806e2c829b6ac72406b30445dd5ed41",
+      "execution": "PASS",
+      "evidence": "qa/secondary",
+      "report": {
+        "frames": 8000,
+        "pointer_injection": true,
+        "reads_983": 2,
+        "reads_984": 2,
+        "samples": [
+          {
+            "target": 2817,
+            "frame": 2118,
+            "secondary_segment": 49152,
+            "secondary_offset": 28480
+          },
+          {
+            "target": 2821,
+            "frame": 2619,
+            "secondary_segment": 61440,
+            "secondary_offset": 64465
+          },
+          {
+            "target": 2821,
+            "frame": 3119,
+            "secondary_segment": 61440,
+            "secondary_offset": 64465
+          },
+          {
+            "target": 2821,
+            "frame": 3619,
+            "secondary_segment": 61440,
+            "secondary_offset": 64465
+          },
+          {
+            "target": 2821,
+            "frame": 4119,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          },
+          {
+            "target": 2821,
+            "frame": 4619,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          },
+          {
+            "target": 2821,
+            "frame": 5119,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          },
+          {
+            "target": 2821,
+            "frame": 5619,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          },
+          {
+            "target": 2821,
+            "frame": 6119,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          },
+          {
+            "target": 2821,
+            "frame": 6619,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          },
+          {
+            "target": 2821,
+            "frame": 7119,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          },
+          {
+            "target": 2821,
+            "frame": 7619,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "secondary_controls",
+      "rom_sha256": "6c722fe5f3bbe7bf6ec371bc54a4ba801806e2c829b6ac72406b30445dd5ed41",
+      "execution": "PASS",
+      "evidence": "qa/secondary_controls",
+      "report": {
+        "frames": 8000,
+        "pointer_injection": true,
+        "reads_983": 2,
+        "reads_984": 2,
+        "samples": [
+          {
+            "target": 956,
+            "frame": 2118,
+            "secondary_segment": 49152,
+            "secondary_offset": 27922
+          },
+          {
+            "target": 956,
+            "frame": 2618,
+            "secondary_segment": 49152,
+            "secondary_offset": 27922
+          },
+          {
+            "target": 545,
+            "frame": 3119,
+            "secondary_segment": 49152,
+            "secondary_offset": 4281
+          },
+          {
+            "target": 545,
+            "frame": 3619,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          },
+          {
+            "target": 545,
+            "frame": 4119,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          },
+          {
+            "target": 545,
+            "frame": 4619,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          },
+          {
+            "target": 545,
+            "frame": 5119,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          },
+          {
+            "target": 545,
+            "frame": 5619,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          },
+          {
+            "target": 545,
+            "frame": 6119,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          },
+          {
+            "target": 545,
+            "frame": 6619,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          },
+          {
+            "target": 545,
+            "frame": 7119,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          },
+          {
+            "target": 545,
+            "frame": 7619,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "stress",
+      "rom_sha256": "6db27465dac4bac82cd327eb228279764e02bbed2f9a346b7f3abe9559d5966e",
+      "execution": "PASS",
+      "evidence": "qa/stress",
+      "report": {
+        "frames": 9000,
+        "synthetic_ROM": true,
+        "reads_983": 2,
+        "reads_984": 2,
+        "reads_955": 2,
+        "captures": [
+          {
+            "source": 983,
+            "age": 620
+          },
+          {
+            "source": 983,
+            "age": 1270
+          },
+          {
+            "source": 984,
+            "age": 620
+          },
+          {
+            "source": 955,
+            "age": 620
+          },
+          {
+            "source": 955,
+            "age": 1270
+          },
+          {
+            "source": 955,
+            "age": 1920
+          },
+          {
+            "source": 955,
+            "age": 2570
+          },
+          {
+            "source": 955,
+            "age": 3220
+          },
+          {
+            "source": 955,
+            "age": 3870
+          },
+          {
+            "source": 955,
+            "age": 4520
+          }
+        ]
+      }
+    },
+    {
+      "name": "stress_narrow",
+      "rom_sha256": "6db27465dac4bac82cd327eb228279764e02bbed2f9a346b7f3abe9559d5966e",
+      "execution": "PASS",
+      "evidence": "qa/stress_narrow",
+      "report": {
+        "frames": 9000,
+        "synthetic_ROM": true,
+        "forced_narrow_mode": true,
+        "reads_983": 2,
+        "reads_984": 2,
+        "reads_955": 2,
+        "captures": [
+          {
+            "source": 983,
+            "age": 620
+          },
+          {
+            "source": 983,
+            "age": 1270
+          },
+          {
+            "source": 984,
+            "age": 620
+          },
+          {
+            "source": 955,
+            "age": 620
+          },
+          {
+            "source": 955,
+            "age": 1270
+          },
+          {
+            "source": 955,
+            "age": 1920
+          },
+          {
+            "source": 955,
+            "age": 2570
+          },
+          {
+            "source": 955,
+            "age": 3220
+          },
+          {
+            "source": 955,
+            "age": 3870
+          },
+          {
+            "source": 955,
+            "age": 4520
+          }
+        ]
+      }
+    },
+    {
+      "name": "before_v032",
+      "rom_sha256": "75ddcc0c9ac17d2d188a5312c205149288e7eb6f5c4f93e795238d97f6f74185",
+      "execution": "PASS",
+      "evidence": "qa/before_v032",
+      "report": {
+        "frames": 8000,
+        "pointer_injection": true,
+        "reads_983": 2,
+        "reads_984": 2,
+        "samples": [
+          {
+            "target": 2817,
+            "frame": 2118,
+            "secondary_segment": 49152,
+            "secondary_offset": 28480
+          },
+          {
+            "target": 2817,
+            "frame": 2618,
+            "secondary_segment": 49152,
+            "secondary_offset": 28480
+          },
+          {
+            "target": 2821,
+            "frame": 3119,
+            "secondary_segment": 61440,
+            "secondary_offset": 64465
+          },
+          {
+            "target": 2821,
+            "frame": 3619,
+            "secondary_segment": 61440,
+            "secondary_offset": 64465
+          },
+          {
+            "target": 2821,
+            "frame": 4119,
+            "secondary_segment": 61440,
+            "secondary_offset": 64465
+          },
+          {
+            "target": 2821,
+            "frame": 4619,
+            "secondary_segment": 61440,
+            "secondary_offset": 64465
+          },
+          {
+            "target": 2821,
+            "frame": 5119,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          },
+          {
+            "target": 2821,
+            "frame": 5619,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          },
+          {
+            "target": 2821,
+            "frame": 6119,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          },
+          {
+            "target": 2821,
+            "frame": 6619,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          },
+          {
+            "target": 2821,
+            "frame": 7119,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          },
+          {
+            "target": 2821,
+            "frame": 7619,
+            "secondary_segment": 0,
+            "secondary_offset": 0
+          }
+        ]
+      }
+    }
+  ],
+  "visual_review": "See QA_ES.md for individually reviewed screenshots and scope",
+  "whole_game_approved": false
+}

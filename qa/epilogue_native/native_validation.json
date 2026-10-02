@@ -1,0 +1,373 @@
+{
+  "rom_sha256": "bed365a706e13338c8bebc17723fc40f3804a114520524d3ad62f180d44f42c0",
+  "rom_modified": false,
+  "classification": "SYNTHETIC_STATE",
+  "native_scene_reader": "E000:F9C5 MOV BX,CS:[SI+C6A8]",
+  "native_index_table": "0x7EC6A8",
+  "native_table_words": 39,
+  "requested_text_records": 25,
+  "requested_japanese_glyphs": 0,
+  "requested_unknown_glyphs": 0,
+  "legacy_tables_read_by_native_ending": false,
+  "legacy_tables_structurally_valid": true,
+  "native_code_unchanged_from_clean": true,
+  "natural_campaign_completion_proven": false,
+  "linguistic_accuracy_approved": false,
+  "whole_game_approved": false,
+  "runs": [
+    {
+      "name": "probe",
+      "frames": 36000,
+      "native_text_indices_in_final_counters": 39,
+      "native_text_indices_in_persisted_trace": 39,
+      "requested_indices_captured": 25,
+      "trace_complete": true,
+      "legacy_root_reads": [
+        0,
+        0
+      ],
+      "capture_metadata_sha256": "7221b0d137396e30feb004754549dd139646ef4e681af7d8fba4847550ad763e"
+    },
+    {
+      "name": "clean_wsc",
+      "frames": 36000,
+      "native_text_indices_in_final_counters": 39,
+      "native_text_indices_in_persisted_trace": 16,
+      "requested_indices_captured": 25,
+      "trace_complete": false,
+      "legacy_root_reads": [
+        0,
+        0
+      ],
+      "capture_metadata_sha256": "1993f05221ec4900b4897ec82f1690f61d45b00850a185755808d1034a5f89a5"
+    },
+    {
+      "name": "native_v035",
+      "frames": 36000,
+      "native_text_indices_in_final_counters": 39,
+      "native_text_indices_in_persisted_trace": 39,
+      "requested_indices_captured": 25,
+      "trace_complete": true,
+      "legacy_root_reads": [
+        0,
+        0
+      ],
+      "capture_metadata_sha256": "0ef5d111ca6ec0feebd512e33a3570ce71a935a955f63b8437dd25a5b479a27d"
+    },
+    {
+      "name": "isolated_v035",
+      "frames": 36000,
+      "native_text_indices_in_final_counters": 39,
+      "native_text_indices_in_persisted_trace": 39,
+      "requested_indices_captured": 25,
+      "trace_complete": true,
+      "legacy_root_reads": [
+        0,
+        0
+      ],
+      "capture_metadata_sha256": "c2860f375e73945ee603be20d93f6bd75ee9c0c33676c05ef477fb1a706356db"
+    }
+  ],
+  "records": [
+    {
+      "index": 3318,
+      "legacy_parent": 3317,
+      "native_index_offset": "0x7ec6a8",
+      "main_target": "0x7c8c98",
+      "legacy_near_target": "0x7c8c98",
+      "text": "PMO Meldifsky:{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3319,
+      "legacy_parent": 3317,
+      "native_index_offset": "0x7ec6aa",
+      "main_target": "0x7bbbb6",
+      "legacy_near_target": "0x7ca026",
+      "text": "50 km from Monus{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3320,
+      "legacy_parent": 3317,
+      "native_index_offset": "0x7ec6ac",
+      "main_target": "0x7c917b",
+      "legacy_near_target": "0x7c917b",
+      "text": "Longrevers blast{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3321,
+      "legacy_parent": 3317,
+      "native_index_offset": "0x7ec6ae",
+      "main_target": "0x7c8611",
+      "legacy_near_target": "0x7c8611",
+      "text": "At Soul hidden HQ{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3322,
+      "legacy_parent": 3317,
+      "native_index_offset": "0x7ec6b0",
+      "main_target": "0x78b294",
+      "legacy_near_target": "0x7ca03a",
+      "text": "was mass suicide.{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3323,
+      "legacy_parent": 3317,
+      "native_index_offset": "0x7ec6b2",
+      "main_target": "0x7c94a2",
+      "legacy_near_target": "0x7c94a2",
+      "text": "Issue resolved.{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3324,
+      "legacy_parent": 3317,
+      "native_index_offset": "0x7ec6b4",
+      "main_target": "0x7b8766",
+      "legacy_near_target": "0x7ca04c",
+      "text": "-New York Days-{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3340,
+      "legacy_parent": 3339,
+      "native_index_offset": "0x7ec6b6",
+      "main_target": "0x7c8fc4",
+      "legacy_near_target": "0x7c8fc4",
+      "text": "Six months later,{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3341,
+      "legacy_parent": 3339,
+      "native_index_offset": "0x7ec6b8",
+      "main_target": "0x7c945e",
+      "legacy_near_target": "0x7c945e",
+      "text": "Frederick wrote{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3342,
+      "legacy_parent": 3339,
+      "native_index_offset": "0x7ec6ba",
+      "main_target": "0x7c9753",
+      "legacy_near_target": "0x7c9753",
+      "text": "Longrevers and{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3343,
+      "legacy_parent": 3339,
+      "native_index_offset": "0x7ec6bc",
+      "main_target": "0x7c8cd4",
+      "legacy_near_target": "0x7c8cd4",
+      "text": "Second War truth.{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3344,
+      "legacy_parent": 3339,
+      "native_index_offset": "0x7ec6be",
+      "main_target": "0x7c98a3",
+      "legacy_near_target": "0x7c98a3",
+      "text": "Uproar spread.{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3345,
+      "legacy_parent": 3339,
+      "native_index_offset": "0x7ec6c0",
+      "main_target": "0x7c91d5",
+      "legacy_near_target": "0x7c91d5",
+      "text": "OCU and USN{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3346,
+      "legacy_parent": 3339,
+      "native_index_offset": "0x7ec6c2",
+      "main_target": "0x78d1ad",
+      "legacy_near_target": "0x7ca061",
+      "text": "admitted facts.{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3347,
+      "legacy_parent": 3339,
+      "native_index_offset": "0x7ec6c4",
+      "main_target": "0x7c952a",
+      "legacy_near_target": "0x7c952a",
+      "text": "Meldifsky quit.{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3348,
+      "legacy_parent": 3339,
+      "native_index_offset": "0x7ec6c6",
+      "main_target": "0x7c98d3",
+      "legacy_near_target": "0x7c98d3",
+      "text": "Zaftra kept on{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3349,
+      "legacy_parent": 3339,
+      "native_index_offset": "0x7ec6c8",
+      "main_target": "0x785a81",
+      "legacy_near_target": "0x7ca071",
+      "text": "denying facts.{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3350,
+      "legacy_parent": 3339,
+      "native_index_offset": "0x7ec6ca",
+      "main_target": "0x7c946f",
+      "legacy_near_target": "0x7c946f",
+      "text": "His later book,{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3351,
+      "legacy_parent": 3339,
+      "native_index_offset": "0x7ec6cc",
+      "main_target": "0x7c8fea",
+      "legacy_near_target": "0x7c8fea",
+      "text": "Sovereign Isles,{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3352,
+      "legacy_parent": 3339,
+      "native_index_offset": "0x7ec6ce",
+      "main_target": "0x7c88e2",
+      "legacy_near_target": "0x7c88e2",
+      "text": "For Carrion Crow.{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3353,
+      "legacy_parent": 3339,
+      "native_index_offset": "0x7ec6d0",
+      "main_target": "0x7c9392",
+      "legacy_near_target": "0x7c9392",
+      "text": "Born from anger{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3354,
+      "legacy_parent": 3339,
+      "native_index_offset": "0x7ec6d2",
+      "main_target": "0x789a0c",
+      "legacy_near_target": "0x7ca080",
+      "text": "and deep sorrow.{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3355,
+      "legacy_parent": 3339,
+      "native_index_offset": "0x7ec6d4",
+      "main_target": "0x7c8f2c",
+      "legacy_near_target": "0x7c8f2c",
+      "text": "One land, no bias{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3356,
+      "legacy_parent": 3339,
+      "native_index_offset": "0x7ec6d6",
+      "main_target": "0x7c8ee0",
+      "legacy_near_target": "0x7c8ee0",
+      "text": "May all share it.{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    },
+    {
+      "index": 3357,
+      "legacy_parent": 3339,
+      "native_index_offset": "0x7ec6d8",
+      "main_target": "0x7c99b9",
+      "legacy_near_target": "0x7c99b9",
+      "text": "F. Lancaster{END}",
+      "japanese_glyphs": 0,
+      "unknown_glyphs": 0,
+      "terminated": true,
+      "secondary_copy_matches": true
+    }
+  ]
+}

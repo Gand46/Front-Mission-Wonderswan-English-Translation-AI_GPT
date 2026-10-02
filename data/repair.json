@@ -1,0 +1,81 @@
+{
+  "version": "v0.35-TEST",
+  "purpose": "Repair near-pointer arrays without editing existing translated strings",
+  "allocation": {
+    "start": "0x7C9F48",
+    "end_exclusive": "0x7CA0D1",
+    "retired_original_indices": [
+      3110,
+      3111,
+      3112,
+      3113
+    ],
+    "base_bytes_sha256": "3757edac74c1bdb935bc42f9cb8fdbdf05a2b806dc5cdd1173bb109cadc88ba1"
+  },
+  "tables": [
+    {
+      "index": 3317,
+      "target": "0x7cc124",
+      "children": [
+        3318,
+        3319,
+        3320,
+        3321,
+        3322,
+        3323,
+        3324
+      ],
+      "expected_old_array": "34c165c18fc1bcc1e6c113c23ec2ffc0"
+    },
+    {
+      "index": 3339,
+      "target": "0x7cc58c",
+      "children": [
+        3340,
+        3341,
+        3342,
+        3343,
+        3344,
+        3345,
+        3346,
+        3347,
+        3348,
+        3349,
+        3350,
+        3351,
+        3352,
+        3353,
+        3354,
+        3355,
+        3356,
+        3357
+      ],
+      "expected_old_array": "b2c5e0c50bc63ac671c69dc6d6c605c737c765c79cc7d2c702c82ec859c88ac8bcc8eac8ffc0"
+    }
+  ],
+  "relocate_dialogues": [
+    {
+      "index": 3227,
+      "old_target": "0x7cc133",
+      "aliases": [
+        3227,
+        3228,
+        3229,
+        3230,
+        3231,
+        3232
+      ],
+      "text": "Items have three{BR}types. Repair S,{BR}M, L and SP{BR}restore the user.{BR}Acid, Flash,{BR}Smoke and Chaff{BR}target other{BR}Wanzers. Land{BR}Mines are placed{BR}on the map.{END}",
+      "bytes": "c0487d3b767cbb3e377f3bbb7d3e7b3b3bfe7db9793b7cbdbbc0513b79373f7bbbc052befec04cbebbc04bbb37773abbc052c04ffe7b3b7c7d787b3bbb7d3e3bbb7e7c3b7bbdfec040393f3abebbc04575377c3ebefec0527678743bbb37773abbc0423e373c3cfe7d377b3d3b7dbb787d3e3b7bfec0563777ba3b7b7cbdbbc04b37773afec04c3f773b7cbb377b3bbb797537393b3afe7877bb7d3e3bbb763779bdff"
+    },
+    {
+      "index": 2928,
+      "old_target": "0x7cc5b1",
+      "aliases": [
+        2928
+      ],
+      "text": "Paul:{BR}Hey, there you{BR}are. I have been{BR}looking for you.{END}",
+      "bytes": "c04f377e75c03afec0473bb9bebb7d3e3b7b3bbbb9787efe377b3bbdbbc048bb3e377f3bbb383b3b77fe757878743f773dbb3c787bbbb9787ebdff"
+    }
+  ]
+}

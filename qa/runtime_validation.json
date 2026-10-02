@@ -1,0 +1,46 @@
+{
+  "version": "v0.35-TEST",
+  "rom_sha256": "bed365a706e13338c8bebc17723fc40f3804a114520524d3ad62f180d44f42c0",
+  "controlled_runs": [
+    {
+      "group": "A",
+      "frames": 7775,
+      "cases": 7,
+      "passed": true
+    },
+    {
+      "group": "B",
+      "frames": 7331,
+      "cases": 6,
+      "passed": true
+    },
+    {
+      "group": "C",
+      "frames": 7331,
+      "cases": 6,
+      "passed": true
+    },
+    {
+      "group": "D",
+      "frames": 9015,
+      "cases": 8,
+      "passed": true
+    }
+  ],
+  "controlled_frames_current_rom": 31452,
+  "secondary_children_rendered": 25,
+  "relocated_dialogues_rendered": 2,
+  "controlled_comparison_captures_identical": 8,
+  "natural_route_frames": 24000,
+  "natural_checkpoint_captures_identical": 8,
+  "native_epilogue_frames": 36000,
+  "total_frames_current_rom": 91452,
+  "native_ending_consumer": "SYNTHETIC_STATE_PASS",
+  "native_ending_requested_layout": "PASS_25_OF_25",
+  "native_ending_requested_japanese_glyphs": 0,
+  "native_ending_requested_unknown_glyphs": 0,
+  "natural_campaign_completion": "NOT_VALIDATED",
+  "linguistic_changes": 0,
+  "visual_scope": "25 requested strings in the native epilogue, controlled primary-renderer coverage, two preserved dialogues, and initial-route checkpoint comparison",
+  "whole_game_approved": false
+}

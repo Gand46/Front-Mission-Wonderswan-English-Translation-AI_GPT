@@ -1,0 +1,54 @@
+[
+  {
+    "original_index": 3110,
+    "original_target": "0x7c9f48",
+    "original_length": 198,
+    "original_sha256": "126f14c0cc9f254805124d0fcf7f7aeacda7268c60ef3146ecb6af8dbf5fb5d5",
+    "original_aliases": [
+      3110
+    ],
+    "current_targets": [
+      "0x79fd3b"
+    ],
+    "all_aliases_relocated": true
+  },
+  {
+    "original_index": 3111,
+    "original_target": "0x7ca00e",
+    "original_length": 45,
+    "original_sha256": "44bcf73d9fd80aa1296379542b5f18db37330090ce42bbc7786d73d612564589",
+    "original_aliases": [
+      3111
+    ],
+    "current_targets": [
+      "0x7b9649"
+    ],
+    "all_aliases_relocated": true
+  },
+  {
+    "original_index": 3112,
+    "original_target": "0x7ca03b",
+    "original_length": 44,
+    "original_sha256": "f4512905f7c850f6a777078d24253f6f9b9c1d5f8e505874aca7076df17608e7",
+    "original_aliases": [
+      3112
+    ],
+    "current_targets": [
+      "0x7ff467"
+    ],
+    "all_aliases_relocated": true
+  },
+  {
+    "original_index": 3113,
+    "original_target": "0x7ca067",
+    "original_length": 106,
+    "original_sha256": "d92aa332281f22ae432862fcedb05532cddbc268b87aac4afe37d21dd4d24d2e",
+    "original_aliases": [
+      3113
+    ],
+    "current_targets": [
+      "0x7bb332"
+    ],
+    "all_aliases_relocated": true
+  }
+]

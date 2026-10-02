@@ -1,0 +1,6 @@
+Unhandled Exception: System.Exception: XOpenDisplay failed
+   at Avalonia.X11.AvaloniaX11Platform.Initialize(X11PlatformOptions) + 0x7c2
+   at Avalonia.AppBuilder.SetupUnsafe() + 0x50
+   at Avalonia.ClassicDesktopStyleApplicationLifetimeExtensions.StartWithClassicDesktopLifetime(AppBuilder, String[], ShutdownMode) + 0x68
+   at Mesen.Program.Main(String[] args) + 0x213
+   at Mesen!<BaseAddress>+0x1cb1e9c

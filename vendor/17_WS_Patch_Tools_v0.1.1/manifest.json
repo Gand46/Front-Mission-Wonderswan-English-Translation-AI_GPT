@@ -1,0 +1,46 @@
+{
+  "name": "WS_Patch_Tools",
+  "version": "0.1.1",
+  "platform": "Linux / Python 3",
+  "license": "MIT",
+  "native_formats": [
+    "IPS",
+    "BPS"
+  ],
+  "external_backend": {
+    "xdelta3": {
+      "release": "v3.2.0",
+      "bundled": false,
+      "linux_asset_sha256": "480295c7a41fea6503659f19ddc61676c0df4834e2292846ba97de30c68c2397",
+      "commit": "ff322e592383227b0d65ddfde7e0e5bbc504dc15"
+    }
+  },
+  "references": [
+    {
+      "repo": "Sir-Walrus/Flips",
+      "release": "v198",
+      "commit": "359d414cff73b3e0400871d3c288a59b36564834"
+    }
+  ],
+  "date": "2026-09-02",
+  "validation": {
+    "repack_revision": "v0.1.1-guides-and-incidence-fixes",
+    "validated_on": "Linux x86_64 / Python 3.13.5",
+    "date": "2026-09-02",
+    "selftest": "PASS",
+    "final_distribution_qa": "prepackage PASS; post-extraction result recorded in external RELEASE_REPORT.json",
+    "status": "PASS_NATIVE_IPS_BPS"
+  },
+  "offline_xdelta_install": "vendor/install_xdelta3_archive.sh <official-linux-x86_64-tar.gz>",
+  "xdelta3_official_asset_sha256": "480295c7a41fea6503659f19ddc61676c0df4834e2292846ba97de30c68c2397",
+  "incidence_fixes": [
+    "Disable Python bytecode writes",
+    "Add verified rootless offline xdelta3 3.2.0 installer from local official archive"
+  ],
+  "guide": "GUIA_FUNCIONAMIENTO_ES.md",
+  "changelog": "CHANGELOG.md",
+  "known_limitations": [
+    "Real xdelta3 is not bundled in this build; v0.1.1 adds SHA-256-verified installer for a locally supplied official 3.2.0 Linux archive."
+  ],
+  "guide_included": true
+}

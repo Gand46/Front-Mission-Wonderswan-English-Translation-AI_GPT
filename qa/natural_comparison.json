@@ -1,0 +1,50 @@
+[
+  {
+    "file": "frame_03000.png",
+    "pixel_identical": true,
+    "baseline_sha256": "3c1c4968f59af6371c49c672b93503a55cfa1ee2e4c01284d7733c09955ff470",
+    "repaired_sha256": "3c1c4968f59af6371c49c672b93503a55cfa1ee2e4c01284d7733c09955ff470"
+  },
+  {
+    "file": "frame_06000.png",
+    "pixel_identical": true,
+    "baseline_sha256": "c47f4ee93b890f1fd59dfdb9175d89bc4cb4a0d9272b6eed9638b3357b37fe4c",
+    "repaired_sha256": "c47f4ee93b890f1fd59dfdb9175d89bc4cb4a0d9272b6eed9638b3357b37fe4c"
+  },
+  {
+    "file": "frame_09000.png",
+    "pixel_identical": true,
+    "baseline_sha256": "c6902f9cf6e9d30efafb141ae5dd312d0da00b7a92d4cadba640d889cb96f25d",
+    "repaired_sha256": "c6902f9cf6e9d30efafb141ae5dd312d0da00b7a92d4cadba640d889cb96f25d"
+  },
+  {
+    "file": "frame_12000.png",
+    "pixel_identical": true,
+    "baseline_sha256": "cbb63c8271c8ac14b3d8dc772311e4ec56e6637b48737d7419e62e40b9c8cb6a",
+    "repaired_sha256": "cbb63c8271c8ac14b3d8dc772311e4ec56e6637b48737d7419e62e40b9c8cb6a"
+  },
+  {
+    "file": "frame_15000.png",
+    "pixel_identical": true,
+    "baseline_sha256": "56515670a14a64183447ea2cc4f2363c75ef3070fc8c9660574a286ca1b1a91e",
+    "repaired_sha256": "56515670a14a64183447ea2cc4f2363c75ef3070fc8c9660574a286ca1b1a91e"
+  },
+  {
+    "file": "frame_18000.png",
+    "pixel_identical": true,
+    "baseline_sha256": "04ace81f103dd5cfb2a24d5396d8a2b286cbf5df6ff0d9e23a62f8e4358faccc",
+    "repaired_sha256": "04ace81f103dd5cfb2a24d5396d8a2b286cbf5df6ff0d9e23a62f8e4358faccc"
+  },
+  {
+    "file": "frame_21000.png",
+    "pixel_identical": true,
+    "baseline_sha256": "e33e5f58d2f080fa70ab49a6464448c5ae3c5e3f1133f6b27bf880d1b9bf066a",
+    "repaired_sha256": "e33e5f58d2f080fa70ab49a6464448c5ae3c5e3f1133f6b27bf880d1b9bf066a"
+  },
+  {
+    "file": "frame_24000.png",
+    "pixel_identical": true,
+    "baseline_sha256": "930b114b29956f71c386139378c8791eb876227d6c866fe1448196ac8c81d6ce",
+    "repaired_sha256": "930b114b29956f71c386139378c8791eb876227d6c866fe1448196ac8c81d6ce"
+  }
+]

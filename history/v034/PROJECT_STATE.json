@@ -1,0 +1,19 @@
+{
+  "version": "v0.34-TEST",
+  "rom_sha256": "4d6a19c8a69c61edf92ccab3c17ec007f942faec66e6ffe7b68bdbb98450b263",
+  "base_version": "v0.33-TEST",
+  "confirmed_issue": "Japanese graphical caption in Sakata advertisement",
+  "translated": true,
+  "integrated": true,
+  "runtime_confirmed": true,
+  "linguistically_approved_scope": "Sakata caption only",
+  "visual_approved_scope": "Sakata caption and preservation of other nine advertisements",
+  "whole_game_approved": false,
+  "next_priorities": [
+    "Trace consumers for nested tables 3317 and 3339, 25 children",
+    "Classify 22 external pointer-pattern candidates to retained Japanese strings",
+    "Review remaining graphics and other consumers beyond the mapped main table",
+    "Complete contextual linguistic and visual review across gameplay"
+  ],
+  "resume": "Read README_ES.md, VALIDACION_ES.md and qa/audit_summary.json; build from clean ROM using tools/build_v034.py. Do not overwrite historical evidence."
+}

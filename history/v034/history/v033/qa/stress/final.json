@@ -1,0 +1,44 @@
+{
+  "capture": "<local-path-redacted>",
+  "capture_exists": true,
+  "capture_geometry": [
+    224,
+    144
+  ],
+  "capture_sha256": "80cf7fee4a2f95452d7a39bbcd6c5e7add354e707a2f165a95e72bfae56a23bc",
+  "command": [
+    "<local-path-redacted>",
+    "--testRunner",
+    "--timeout=50",
+    "--enableStdout",
+    "--doNotSaveSettings",
+    "--debug.scriptWindow.allowIoOsAccess=true",
+    "<local-path-redacted>",
+    "<local-path-redacted>"
+  ],
+  "elapsed_seconds": 17.755,
+  "generated_at_utc": "2026-09-20T07:58:12.599170+00:00",
+  "log": "<local-path-redacted>",
+  "lua": "<local-path-redacted>",
+  "lua_report": "<local-path-redacted>",
+  "lua_sha256": "4f876023ae81b0319d3a0483ca64fdbb1d616441b9d5dde3089da61e72c9c44b",
+  "mesen": "<local-path-redacted>",
+  "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+  "mode": "testRunner framebuffer capture",
+  "passed": true,
+  "process_exit": 0,
+  "profile": "<local-path-redacted>",
+  "profile_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+  "raw_capture": "<local-path-redacted>",
+  "raw_capture_sha256": "0b3dc0187ac6c9631b87e497fc131679e35d7e0dc403cc498a5ac94a241e9038",
+  "rom": "<local-path-redacted>",
+  "rom_sha256": "6db27465dac4bac82cd327eb228279764e02bbed2f9a346b7f3abe9559d5966e",
+  "schema": 1,
+  "source_geometry": [
+    237,
+    144
+  ],
+  "timed_out": false,
+  "timeout_source": null,
+  "validation_error": null
+}

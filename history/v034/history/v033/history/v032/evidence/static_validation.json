@@ -1,0 +1,37 @@
+{
+  "version": "v0.32-TEST",
+  "rom_sha256": "75ddcc0c9ac17d2d188a5312c205149288e7eb6f5c4f93e795238d97f6f74185",
+  "checksum": "0x1D05",
+  "static_status": "PASS",
+  "runtime_status": "BLOCKED_NO_X_SERVER",
+  "main_entries": 3358,
+  "translated_attribute_glyphs": 16,
+  "affected_attribute_entries": 464,
+  "affected_attribute_unique_targets": 463,
+  "translated_test_slots": 5,
+  "test_runtime_use": "UNPROVEN",
+  "remaining_japanese_in_audited_main_text_excluding_grid_and_nested_arrays": [],
+  "unclassified_glyph_entries_in_same_scope": [],
+  "preserved_name_grid_entries": 231,
+  "unresolved_nested_tables": [
+    3317,
+    3339
+  ],
+  "unresolved_nested_children": 25,
+  "whole_game_translation_complete": false,
+  "patch_roundtrips": "PASS",
+  "change_whitelist": "PASS",
+  "font_engine_unchanged": true,
+  "changed_bytes": 1208,
+  "cumulative_patch_sha256": "f446d70aa7d193b15e5ccf554a290bf330b96d88ac2e7d2bf50cf25dbea5f639",
+  "delta_patch_sha256": "f13c5e087e5e45db040f93f4246cdeb37a57f472181433831cf9825c5261a4ff",
+  "disclaimer": "Zero applies ONLY to the decoded main-table scope; does not certify graphics, special FD glyphs, secondary tables, name-entry glyphs, or every runtime path.",
+  "all_non_changed_main_text_bytes_unchanged": "PASS",
+  "bank_boundary_fix": {
+    "index": 1011,
+    "previous_target": "0x7BFFFB",
+    "new_target": "0x7C0000",
+    "status": "PASS_STATIC",
+    "remaining_cross_bank_records": 0
+  }
+}

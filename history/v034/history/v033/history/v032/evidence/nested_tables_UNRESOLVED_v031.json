@@ -1,0 +1,449 @@
+[
+  {
+    "index": 3317,
+    "table_target": "0x7CC124",
+    "count": 7,
+    "original_hex": "34 c1 65 c1 8f c1 bc c1 e6 c1 13 c2 3e c2 ff ff",
+    "current_hex": "34 c1 65 c1 8f c1 bc c1 e6 c1 13 c2 3e c2 ff c0",
+    "sentinel_intact": false,
+    "children": [
+      {
+        "subindex": 0,
+        "original_target": "0x7CC134",
+        "current_target": "0x7CC134",
+        "original_text": "{C4:3A}{C1:6F}{C1:72}{C1:96}{C2:13}機構のメルディフスキー事務局長は,{C4:7B}{C2:07}未{C1:8D}に{C2:BE}きた{END}",
+        "current_text": "ぜtems have three{BR}types. Repair S,{BR}M, L and SP{BR}restore the user.{BR}Acid, Flash,{BR}Smoke and Chaff{BR}target other{BR}Wanzers. Land{BR}Mines are placed{BR}on the map.{END}",
+        "current_japanese_count": 1,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3318,
+            "target": "0x7C8C98",
+            "text": "PMO Meldifsky:{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 1,
+        "original_target": "0x7CC165",
+        "current_target": "0x7CC165",
+        "original_text": "ハフマン{C1:60}フォートモーナス市から{C0:A6}50キロメートル離れた  {END}",
+        "current_text": "P{BR}restore the user.{BR}Acid, Flash,{BR}Smoke and Chaff{BR}target other{BR}Wanzers. Land{BR}Mines are placed{BR}on the map.{END}",
+        "current_japanese_count": 0,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3319,
+            "target": "0x7BBBB6",
+            "text": "50 km from Monus{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 2,
+        "original_target": "0x7CC18F",
+        "current_target": "0x7CC18F",
+        "original_text": "{C5:57}合いに{C5:60}かぶロングリバース{C1:60}での攻発について,      {END}",
+        "current_text": " and Chaff{BR}target other{BR}Wanzers. Land{BR}Mines are placed{BR}on the map.{END}",
+        "current_japanese_count": 0,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3320,
+            "target": "0x7C917B",
+            "text": "Longrevers blast{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 3,
+        "original_target": "0x7CC1BC",
+        "current_target": "0x7CC1BC",
+        "original_text": "ハフマン{C1:60}のテロリスト{C5:37}{C5:A8}{C0:3B}ハフマンの{C2:12}{C0:3B}が,{C2:5C}かに{C1:66}{C1:01}地と{END}",
+        "current_text": "es are placed{BR}on the map.{END}",
+        "current_japanese_count": 0,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3321,
+            "target": "0x7C8611",
+            "text": "At Soul hidden HQ{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 4,
+        "original_target": "0x7CC1E6",
+        "current_target": "0x7CC1E6",
+        "original_text": "していたロングリバース{C1:60}で集団{C1:A5}決を行ったと{C4:58}り,     {END}",
+        "current_text": "m is ours,{BR}but war goes on.{BR}Now we enter USN{BR}territory.{BR}Build a new base{BR}at Lark Valley,{BR}near old border.{BR}It was occupied.{BR}Check if safe.{END}",
+        "current_japanese_count": 0,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3322,
+            "target": "0x78B294",
+            "text": "was mass suicide.{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 5,
+        "original_target": "0x7CC213",
+        "current_target": "0x7CC213",
+        "original_text": "これによりハフマン{C1:60}の{C2:28}{C2:3D}は 全て解決されたと{C5:03}言した。  {END}",
+        "current_text": "べN{BR}territory.{BR}Build a new base{BR}at Lark Valley,{BR}near old border.{BR}It was occupied.{BR}Check if safe.{END}",
+        "current_japanese_count": 1,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3323,
+            "target": "0x7C94A2",
+            "text": "Issue resolved.{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 6,
+        "original_target": "0x7CC23E",
+        "current_target": "0x7CC23E",
+        "original_text": "                -ニューヨークデイズ{C4:64}より-{END}",
+        "current_text": "ぴalley,{BR}near old border.{BR}It was occupied.{BR}Check if safe.{END}",
+        "current_japanese_count": 1,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3324,
+            "target": "0x7B8766",
+            "text": "-New York Days-{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      }
+    ]
+  },
+  {
+    "index": 3339,
+    "table_target": "0x7CC58C",
+    "count": 18,
+    "original_hex": "b2 c5 e0 c5 0b c6 3a c6 71 c6 9d c6 d6 c6 05 c7 37 c7 65 c7 9c c7 d2 c7 02 c8 2e c8 59 c8 8a c8 bc c8 ea c8 ff ff",
+    "current_hex": "b2 c5 e0 c5 0b c6 3a c6 71 c6 9d c6 d6 c6 05 c7 37 c7 65 c7 9c c7 d2 c7 02 c8 2e c8 59 c8 8a c8 bc c8 ea c8 ff c0",
+    "sentinel_intact": false,
+    "children": [
+      {
+        "subindex": 0,
+        "original_target": "0x7CC5B2",
+        "current_target": "0x7CC5B2",
+        "original_text": "{C5:76}{C2:38}後,{C5:A5}軍記者のフレデリック{C0:30}ランカスターにより     {END}",
+        "current_text": "ばaul:{BR}Hey, there you{BR}are. I have been{BR}looking for you.{END}",
+        "current_japanese_count": 1,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3340,
+            "target": "0x7C8FC4",
+            "text": "Six months later,{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 1,
+        "original_target": "0x7CC5E0",
+        "current_target": "0x7CC5E0",
+        "original_text": "ロングリバース{C1:60}の攻発と{C2:05}2{C1:81}ハフマン{C2:53}争の{C2:16}相についての {END}",
+        "current_text": "ng for you.{END}",
+        "current_japanese_count": 0,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3341,
+            "target": "0x7C945E",
+            "text": "Frederick wrote{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 2,
+        "original_target": "0x7CC60B",
+        "current_target": "0x7CC60B",
+        "original_text": "記事がデイリーフリーダム{C4:64}の 1{C2:50}をかざった。       {END}",
+        "current_text": "ou know how I{BR}really feel.{END}",
+        "current_japanese_count": 0,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3342,
+            "target": "0x7C9753",
+            "text": "Longrevers and{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 3,
+        "original_target": "0x7CC63A",
+        "current_target": "0x7CC63A",
+        "original_text": "この記事は{C1:0A}{C1:79}務な反{C4:39}を{C2:88}び,               {END}",
+        "current_text": "ど{BR}{C6:42} 3{FD:2C}30 {C6:48}80 {C6:50}{C6:51} 3{FD:2F}6 {C6:47} 3 {END}",
+        "current_japanese_count": 1,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3343,
+            "target": "0x7C8CD4",
+            "text": "Second War truth.{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 4,
+        "original_target": "0x7CC671",
+        "current_target": "0x7CC671",
+        "original_text": "{C2:11}界{C5:A7}{C1:0A}で{C2:16}相を突き止めようとする移動がさかんになった。  {END}",
+        "current_text": "is{F9:04}{NL}only to beat{NL}rival Wanzer{F9:02}{NL}makers!{F9:0A}{END}",
+        "current_japanese_count": 0,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3344,
+            "target": "0x7C98A3",
+            "text": "Uproar spread.{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 5,
+        "original_target": "0x7CC69D",
+        "current_target": "0x7CC69D",
+        "original_text": "{C2:92}まる{C1:0A}{C1:79}{C5:B0}{C3:6D}の中,OCU, USN両{C1:0A}は,        {END}",
+        "current_text": "Sakata105C Arm:{C6:4C}{BR}{C6:41} 48 {C6:4F} 215 {C6:48} 65 {C6:43} 40{END}",
+        "current_japanese_count": 0,
+        "main_table_aliases": [
+          377
+        ],
+        "relocated_main_entries": [
+          {
+            "index": 3345,
+            "target": "0x7C91D5",
+            "text": "OCU and USN{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 6,
+        "original_target": "0x7CC6D6",
+        "current_target": "0x7CC6D6",
+        "original_text": "報{C2:63}された{C1:0C}{C3:19}の一部が,事{C1:BB}であったことを認めた。     {END}",
+        "current_text": "や{END}",
+        "current_japanese_count": 1,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3346,
+            "target": "0x78D1AD",
+            "text": "admitted facts.{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 7,
+        "original_target": "0x7CC705",
+        "current_target": "0x7CC705",
+        "original_text": "記事発{C2:85}の直後,メルディフスキー{C3:0E}は{C4:3A}{C1:6F}{C1:72}{C1:96}{C2:13}軍の事務局長を{END}",
+        "current_text": "s{BR}involved!?{END}",
+        "current_japanese_count": 0,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3347,
+            "target": "0x7C952A",
+            "text": "Meldifsky quit.{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 8,
+        "original_target": "0x7CC737",
+        "current_target": "0x7CC737",
+        "original_text": "{C5:B1}任しているが,ザーフトラ{C2:7D}{C1:72}{C1:0A}は記事の{C1:0C}{C3:19}について,   {END}",
+        "current_text": "aim.{BR}Hash, Barinden.{END}",
+        "current_japanese_count": 0,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3348,
+            "target": "0x7C98D3",
+            "text": "Zaftra kept on{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 9,
+        "original_target": "0x7CC765",
+        "current_target": "0x7CC765",
+        "original_text": "強{C5:B2}に{C2:99}認を続けている………                {END}",
+        "current_text": "{C6:41} 34 {C6:4F} 108 {C6:44} 240 {C6:43} 64{END}",
+        "current_japanese_count": 0,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3349,
+            "target": "0x785A81",
+            "text": "denying facts.{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 10,
+        "original_target": "0x7CC79C",
+        "current_target": "0x7CC79C",
+        "original_text": "後のランカスターの{C5:B3}作,                  {END}",
+        "current_text": "ど{BR}{C6:42} 3{FD:2C}14 {C6:48}76 {C6:50}{C6:51} 3{FD:2F}5 {C6:47} 3 {END}",
+        "current_japanese_count": 1,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3350,
+            "target": "0x7C946F",
+            "text": "His later book,{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 11,
+        "original_target": "0x7CC7D2",
+        "current_target": "0x7CC7D2",
+        "original_text": "「{C5:4D}{C1:0A}成の{C1:60}」の{C5:AC}頭には,こうつづられている。       {END}",
+        "current_text": "ばunch:{C6:4C}{BR}{C6:42} 62   {C6:48}82 {C6:50}{C6:51} 1{FD:2F}1 {C6:47} {C6:49}{END}",
+        "current_japanese_count": 1,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3351,
+            "target": "0x7C8FEA",
+            "text": "Sovereign Isles,{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 12,
+        "original_target": "0x7CC802",
+        "current_target": "0x7CC802",
+        "original_text": "この{C1:66}を「キャニオンクロウ」の隊員成にささげる。      {END}",
+        "current_text": "pe 103 Punch:{C6:4C}{BR}{C6:42} 60   {C6:48}82 {C6:50}{C6:51} 1{FD:2F}1 {C6:47} {C6:49}{END}",
+        "current_japanese_count": 0,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3352,
+            "target": "0x7C88E2",
+            "text": "For Carrion Crow.{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 13,
+        "original_target": "0x7CC82E",
+        "current_target": "0x7CC82E",
+        "original_text": "この{C2:16}{C1:BB}の物{C4:58}は,{C1:6C}らの激しい怒りと{C5:AD}い{C5:AE}しみから生まれた。{END}",
+        "current_text": "ひ{FD:2F}1 {C6:47} {C6:49}{END}",
+        "current_japanese_count": 1,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3353,
+            "target": "0x7C9392",
+            "text": "Born from anger{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 14,
+        "original_target": "0x7CC859",
+        "current_target": "0x7CC859",
+        "original_text": "現{C2:A9},{C1:6C}らの一部は,ハフマン{C1:60}全{C4:51}を{C1:0A}{C3:68}も民{C1:2F}差{C2:62}もない  {END}",
+        "current_text": "   {C6:48}82 {C6:50}{C6:51} 1{FD:2F}1 {C6:47} {C6:49}{END}",
+        "current_japanese_count": 0,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3354,
+            "target": "0x789A0C",
+            "text": "and deep sorrow.{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 15,
+        "original_target": "0x7CC88A",
+        "current_target": "0x7CC88A",
+        "original_text": "{C5:9C}立{C1:0A}{C1:2E}にするための{C3:95}動を始めている。           {END}",
+        "current_text": "{C6:4C}{BR}{C6:42} 40   {C6:48}80 {C6:50}{C6:51} 1{FD:2F}1 {C6:47} {C6:49}{END}",
+        "current_japanese_count": 0,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3355,
+            "target": "0x7C8F2C",
+            "text": "One land, no bias{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 16,
+        "original_target": "0x7CC8BC",
+        "current_target": "0x7CC8BC",
+        "original_text": "{C1:6C}らの{C2:78}いが全{C2:11}界の人達の{C2:3F}に{C6:04}くことを私は{C5:AF}り続ける。  {END}",
+        "current_text": "べT-98x:{BR}{C6:4C} 98 {C6:4D} 82 {C6:4E} 82 {C6:52}{C6:53} 82{END}",
+        "current_japanese_count": 1,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3356,
+            "target": "0x7C8EE0",
+            "text": "May all share it.{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      },
+      {
+        "subindex": 17,
+        "original_target": "0x7CC8EA",
+        "current_target": "0x7CC8EA",
+        "original_text": "               フレデリック{C0:30}ランカスター  {END}",
+        "current_text": "{END}",
+        "current_japanese_count": 0,
+        "main_table_aliases": [],
+        "relocated_main_entries": [
+          {
+            "index": 3357,
+            "target": "0x7C99B9",
+            "text": "F. Lancaster{END}"
+          }
+        ],
+        "bytes_unchanged": false
+      }
+    ]
+  }
+]

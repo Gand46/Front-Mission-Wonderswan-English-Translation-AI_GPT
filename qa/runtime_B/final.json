@@ -1,0 +1,45 @@
+{
+  "capture": "qa/runtime_B/final.png",
+  "capture_exists": true,
+  "capture_geometry": [
+    224,
+    144
+  ],
+  "capture_sha256": "449c4ad0a4d729a6cce6f83220e9d163a4a61b36b082b023dcfd6fbfd4a93593",
+  "command": [
+    "<MESEN_EXECUTABLE>",
+    "--testRunner",
+    "--timeout=55",
+    "--enableStdout",
+    "--doNotSaveSettings",
+    "--debug.scriptWindow.allowIoOsAccess=true",
+    "qa/controlled_B_repaired.lua",
+    "<ROM_NOT_INCLUDED>"
+  ],
+  "elapsed_seconds": 14.198,
+  "generated_at_utc": "2026-09-20T09:35:28.733485+00:00",
+  "log": "qa/runtime_B/final.log",
+  "lua": "qa/controlled_B_repaired.lua",
+  "lua_report": "qa/runtime_B/final.lua.json",
+  "lua_sha256": "df0e4019b4313319b938f18b7240067c2bdb48a41c71ea5dabb3edf66cbf287d",
+  "mesen": "<MESEN_EXECUTABLE>",
+  "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+  "mode": "testRunner framebuffer capture",
+  "passed": true,
+  "process_exit": 0,
+  "profile": "vendor/mesen_visualization_source_v1.1.0/config/settings.json",
+  "profile_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+  "raw_capture": "qa/runtime_B/final.raw.png",
+  "raw_capture_sha256": "5ce4cfc22fa1485877e931d3f347a37fe8ac188ca4a8d2951a2a962b153bd828",
+  "rom": "<ROM_NOT_INCLUDED>",
+  "rom_sha256": "bed365a706e13338c8bebc17723fc40f3804a114520524d3ad62f180d44f42c0",
+  "schema": 1,
+  "source_geometry": [
+    237,
+    144
+  ],
+  "timed_out": false,
+  "timeout_source": null,
+  "validation_error": null,
+  "paths_sanitized_for_repository": true
+}

@@ -1,0 +1,18 @@
+{
+  "status": "BLOCKED_NO_X_SERVER",
+  "rom_sha256": "75ddcc0c9ac17d2d188a5312c205149288e7eb6f5c4f93e795238d97f6f74185",
+  "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+  "command": [
+    "<local-path-redacted>",
+    "<local-path-redacted>"
+  ],
+  "mode": "normal GUI; no --testRunner",
+  "exit_code": -6,
+  "timeout_seconds": 12,
+  "timed_out": false,
+  "display_available": false,
+  "xvfb_available": false,
+  "frames_validated": 0,
+  "runtime_screenshots": 0,
+  "visual_gameplay_certified": false
+}

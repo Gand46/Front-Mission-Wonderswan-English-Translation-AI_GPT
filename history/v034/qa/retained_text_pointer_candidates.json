@@ -1,0 +1,134 @@
+[
+  {
+    "offset": "0x1ba954",
+    "target": "0x7b00aa",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  },
+  {
+    "offset": "0x53d87e",
+    "target": "0x7b00aa",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  },
+  {
+    "offset": "0x74028d",
+    "target": "0x7ca77e",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  },
+  {
+    "offset": "0x740611",
+    "target": "0x7ca847",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  },
+  {
+    "offset": "0x740617",
+    "target": "0x7ca847",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  },
+  {
+    "offset": "0x7406d7",
+    "target": "0x7ca873",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  },
+  {
+    "offset": "0x7407c7",
+    "target": "0x7ca8a9",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  },
+  {
+    "offset": "0x7408b7",
+    "target": "0x7ca8dc",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  },
+  {
+    "offset": "0x750129",
+    "target": "0x7b0406",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  },
+  {
+    "offset": "0x750292",
+    "target": "0x7b0406",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  },
+  {
+    "offset": "0x75b235",
+    "target": "0x7ca236",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  },
+  {
+    "offset": "0x75e8d3",
+    "target": "0x7ca236",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  },
+  {
+    "offset": "0x75ea9b",
+    "target": "0x7ca236",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  },
+  {
+    "offset": "0x75f53c",
+    "target": "0x7ca236",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  },
+  {
+    "offset": "0x763195",
+    "target": "0x7b141e",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  },
+  {
+    "offset": "0x776be3",
+    "target": "0x7b0001",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  },
+  {
+    "offset": "0x779994",
+    "target": "0x7b0001",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  },
+  {
+    "offset": "0x779a26",
+    "target": "0x7b0001",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  },
+  {
+    "offset": "0x77b85e",
+    "target": "0x7b0001",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  },
+  {
+    "offset": "0x77bd0c",
+    "target": "0x7b023e",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  },
+  {
+    "offset": "0x77be78",
+    "target": "0x7b023e",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  },
+  {
+    "offset": "0x7f6544",
+    "target": "0x7b02a9",
+    "inside_main_table": false,
+    "status": "BYTE_PATTERN_NOT_PROVEN_POINTER"
+  }
+]

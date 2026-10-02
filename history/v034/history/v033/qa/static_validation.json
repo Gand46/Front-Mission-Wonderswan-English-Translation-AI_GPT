@@ -1,0 +1,91 @@
+{
+  "version": "v0.33-TEST",
+  "base_sha256": "75ddcc0c9ac17d2d188a5312c205149288e7eb6f5c4f93e795238d97f6f74185",
+  "rom_sha256": "6c722fe5f3bbe7bf6ec371bc54a4ba801806e2c829b6ac72406b30445dd5ed41",
+  "checksum": "8369",
+  "changed_bytes": 450,
+  "patches": [
+    {
+      "offset": "0x76D17D",
+      "length": 1,
+      "purpose": "secondary 8-pixel advance (row A)",
+      "old_sha256": "dbc1b4c900ffe48d575b5da5c638040125f65db0fe3e24494b76ea986457d986",
+      "new_sha256": "4bf5122f344554c53bde2ebb8cd2b7e3d1600ad631c385a5d7cce23c7785459a"
+    },
+    {
+      "offset": "0x76D20D",
+      "length": 1,
+      "purpose": "secondary 8-pixel advance (row B)",
+      "old_sha256": "dbc1b4c900ffe48d575b5da5c638040125f65db0fe3e24494b76ea986457d986",
+      "new_sha256": "4bf5122f344554c53bde2ebb8cd2b7e3d1600ad631c385a5d7cce23c7785459a"
+    },
+    {
+      "offset": "0x76D213",
+      "length": 6,
+      "purpose": "secondary half-tile advance",
+      "old_sha256": "1d14c0320b677a213aae88ba29e340f57967650a9645a9805ad20a606808628c",
+      "new_sha256": "09f01af90ae50df05106e2185a807164fdb71ea1cdc1c6a93fbe86ac1bfc766d"
+    },
+    {
+      "offset": "0x76D233",
+      "length": 155,
+      "purpose": "secondary word boundary",
+      "old_sha256": "38b4a52950ab0225caeae1dc96bffbd8e57e74ff58e4b64bf2e7cfebbe0a168e",
+      "new_sha256": "a04195c0cf067cc5d9aefddef80b35b7fb90c0d820accbe81dbf74343fc7c212"
+    },
+    {
+      "offset": "0x76FEA4",
+      "length": 283,
+      "purpose": "shared bounded word scan",
+      "old_sha256": "f2cac70ad928287c9ced523befc6ec384d3714308680a8f77aa695ef4bcde627",
+      "new_sha256": "7ab98d3adbce632a033b8b43a680be0e1b27ce509699b6ebbdd0f1fe78de783a"
+    },
+    {
+      "offset": "0x78205F",
+      "length": 8,
+      "purpose": "primary far-call word boundary",
+      "old_sha256": "61f9607f979237f61d085d40045b8050ac2285a1e0a7f9c0a75322cf0d8d1fae",
+      "new_sha256": "b86f724f87e241673e722c20c8104583170bbad2af2607aca8c1b22f9c41c591"
+    }
+  ],
+  "text_pointer_table_unchanged": true,
+  "scope": "renderer only; no text/font edits",
+  "status": "static build verified; see separate runtime QA",
+  "static_status": "PASS",
+  "build_clean_equals_build_v032": true,
+  "main_table_entries_unchanged": 3358,
+  "fonts_unchanged": true,
+  "name_grid_entries_preserved": 231,
+  "nested_tables_unchanged": [
+    3317,
+    3339
+  ],
+  "patches_verified": [
+    {
+      "file": "v033_TEST_from_clean.ips",
+      "size": 170629,
+      "sha256": "e60524d33ec932a37cafd1f9363ce4c7f02b95d01979011bd86d5b3d068c83cc",
+      "roundtrip": "PASS"
+    },
+    {
+      "file": "v033_TEST_from_clean.bps",
+      "size": 152568,
+      "sha256": "0004cfa31908146cbab3038d9b0210d6d777c6b927348e2df88d23c1d18c3eb4",
+      "roundtrip": "PASS"
+    },
+    {
+      "file": "v033_TEST_from_v032.ips",
+      "size": 518,
+      "sha256": "13377d188f5d0a67f07d78c671a603fe350653da4433a2440a06f51cb0a4577d",
+      "roundtrip": "PASS"
+    },
+    {
+      "file": "v033_TEST_from_v032.bps",
+      "size": 514,
+      "sha256": "485c219c5094f4d3dd0773947897d6db5d848af440939ac3e46799e2c7828b34",
+      "roundtrip": "PASS"
+    }
+  ],
+  "wrong_source_rejected": true,
+  "whole_game_approved": false
+}

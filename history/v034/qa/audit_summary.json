@@ -1,0 +1,49 @@
+{
+  "version": "v0.34-TEST",
+  "rom_sha256": "4d6a19c8a69c61edf92ccab3c17ec007f942faec66e6ffe7b68bdbb98450b263",
+  "clean_sha256": "d1d21d5199971b345e9907861c04a080ac7b44e07303f96717fd7f603f9ba380",
+  "main_table_entries": 3358,
+  "mapped_text_entries": 3125,
+  "japanese_detected_in_mapped_text": [],
+  "unclassified_glyph_entries": [],
+  "preserved_name_grid_entries": 231,
+  "nested_tables_needing_context": [
+    3317,
+    3339
+  ],
+  "nested_children": 25,
+  "graphics_descriptors_inventoried": 1616,
+  "strict_rle_candidates": 134,
+  "advertisements_reviewed_in_natural_runtime": 10,
+  "japanese_remaining_in_those_advertisements": 0,
+  "retained_original_strings": 744,
+  "outside_main_pointer_patterns": 22,
+  "patches": [
+    {
+      "file": "v034_TEST_from_clean.bps",
+      "size": 157346,
+      "sha256": "37bf16bf4abcc56d4ea29cb4a751e4f67c8d0ce9b0e331e5274638146b9c2728",
+      "roundtrip": "PASS"
+    },
+    {
+      "file": "v034_TEST_from_clean.ips",
+      "size": 176256,
+      "sha256": "a02d5062adf578558b5a1555da1715059e137440778daa25b8b866183ec803de",
+      "roundtrip": "PASS"
+    },
+    {
+      "file": "v034_TEST_from_v033.bps",
+      "size": 4811,
+      "sha256": "3dd3cddebb367eba05246105f9269c4fd8ae617ef31635d144d93f04a95953c1",
+      "roundtrip": "PASS"
+    },
+    {
+      "file": "v034_TEST_from_v033.ips",
+      "size": 5642,
+      "sha256": "9263df4d3248ab88e60a3217b7903a528a1589977ea0c44c0c0d58e69de0991a",
+      "roundtrip": "PASS"
+    }
+  ],
+  "whole_game_no_japanese_claim": false,
+  "global_status": "NOT_APPROVED_GLOBAL_COVERAGE_INCOMPLETE"
+}

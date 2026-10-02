@@ -1,0 +1,16 @@
+{
+  "package": "17_WS_Patch_Tools_v0.1.1",
+  "version": "0.1.1",
+  "validated_on": "2026-09-02",
+  "platform": "linux-x86_64",
+  "selftest": "PASS",
+  "status": "PASS_NATIVE_IPS_BPS",
+  "backend": "native IPS/BPS; optional xdelta3",
+  "incidences_remaining": [
+    "Real xdelta3 is not bundled in this build; v0.1.1 adds SHA-256-verified installer for a locally supplied official 3.2.0 Linux archive."
+  ],
+  "integration": [
+    "IPS create/apply/verify PASS",
+    "BPS create/apply/verify PASS"
+  ]
+}

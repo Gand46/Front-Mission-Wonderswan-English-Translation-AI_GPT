@@ -1,0 +1,17 @@
+[
+  {
+    "table": "0x740130",
+    "descriptors": 483,
+    "all_descriptors_and_payloads_identical": true
+  },
+  {
+    "table": "0x749b90",
+    "descriptors": 1616,
+    "all_descriptors_and_payloads_identical": true
+  },
+  {
+    "table": "0x74d290",
+    "descriptors": 873,
+    "all_descriptors_and_payloads_identical": true
+  }
+]

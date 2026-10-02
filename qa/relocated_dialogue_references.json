@@ -1,0 +1,21 @@
+[
+  {
+    "old_target": "0x7cc133",
+    "reference_offsets": [
+      "0x745a2c",
+      "0x745a30",
+      "0x745a34",
+      "0x745a38",
+      "0x745a3c",
+      "0x745a40"
+    ],
+    "all_are_updated_main_aliases": true
+  },
+  {
+    "old_target": "0x7cc5b1",
+    "reference_offsets": [
+      "0x745580"
+    ],
+    "all_are_updated_main_aliases": true
+  }
+]

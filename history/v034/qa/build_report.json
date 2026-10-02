@@ -1,0 +1,22 @@
+{
+  "version": "v0.34-TEST",
+  "rom_sha256": "4d6a19c8a69c61edf92ccab3c17ec007f942faec66e6ffe7b68bdbb98450b263",
+  "base_sha256": "6c722fe5f3bbe7bf6ec371bc54a4ba801806e2c829b6ac72406b30445dd5ed41",
+  "checksum": "B9F6",
+  "source": "新発売!!",
+  "translation": "NEW RELEASE!!",
+  "resource": 17,
+  "descriptor": "0x749BF6",
+  "allocation": [
+    "0x00DAEA",
+    "0x00ECA1"
+  ],
+  "old_compressed_bytes": 4535,
+  "new_compressed_bytes": 4521,
+  "decoded_bytes": 6656,
+  "changed_rom_bytes": 4154,
+  "changed_pixel_operations": 1598,
+  "neighbor_assets_unchanged": 9,
+  "code_and_text_tables_unchanged": true,
+  "unexpected_changes": 0
+}

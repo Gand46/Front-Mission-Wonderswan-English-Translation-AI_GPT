@@ -1,0 +1,4568 @@
+{
+  "name": "Front Mission WSC Unicode Table v0.13",
+  "scope": "v0.12 verified Unicode table carried forward unchanged for v0.13; v0.13 accelerates by compact scene-localized English and native text-bank space optimization.",
+  "encoding_model": "00-BF single-byte glyphs; C0-C7 and FD are two-byte glyph pages; FA/FE/FF and F8/F9/FB/FC are controls.",
+  "base_table": "wsc_unicode_table_v0.12.json",
+  "v0.9_added_entries": 199,
+  "entry_count": 566,
+  "entries": [
+    {
+      "code": "00",
+      "unicode": "あ",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "01",
+      "unicode": "い",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "02",
+      "unicode": "う",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "03",
+      "unicode": "え",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "04",
+      "unicode": "お",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "05",
+      "unicode": "か",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "06",
+      "unicode": "き",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "07",
+      "unicode": "く",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "08",
+      "unicode": "け",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "09",
+      "unicode": "こ",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "0A",
+      "unicode": "さ",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "0B",
+      "unicode": "し",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "0C",
+      "unicode": "す",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "0D",
+      "unicode": "せ",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "0E",
+      "unicode": "そ",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "0F",
+      "unicode": "た",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "10",
+      "unicode": "ち",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "11",
+      "unicode": "つ",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "12",
+      "unicode": "て",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "13",
+      "unicode": "と",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "14",
+      "unicode": "な",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "15",
+      "unicode": "に",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "16",
+      "unicode": "ぬ",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "17",
+      "unicode": "ね",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "18",
+      "unicode": "の",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "19",
+      "unicode": "は",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "1A",
+      "unicode": "ひ",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "1B",
+      "unicode": "ふ",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "1C",
+      "unicode": "へ",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "1D",
+      "unicode": "ほ",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "1E",
+      "unicode": "ま",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "1F",
+      "unicode": "み",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "20",
+      "unicode": "む",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "21",
+      "unicode": "め",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "22",
+      "unicode": "も",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "23",
+      "unicode": "や",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "24",
+      "unicode": "ゆ",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "25",
+      "unicode": "よ",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "26",
+      "unicode": "ら",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "27",
+      "unicode": "り",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "28",
+      "unicode": "る",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "29",
+      "unicode": "れ",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "2A",
+      "unicode": "ろ",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "2B",
+      "unicode": "わ",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "2C",
+      "unicode": "を",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "2D",
+      "unicode": "ん",
+      "category": "hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words よろしく/だいじょうぶ and standard gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "2E",
+      "unicode": "ぁ",
+      "category": "small_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words including だいじょうぶ and たった",
+      "lossless_literal": true
+    },
+    {
+      "code": "2F",
+      "unicode": "ぃ",
+      "category": "small_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words including だいじょうぶ and たった",
+      "lossless_literal": true
+    },
+    {
+      "code": "30",
+      "unicode": "ぅ",
+      "category": "small_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words including だいじょうぶ and たった",
+      "lossless_literal": true
+    },
+    {
+      "code": "31",
+      "unicode": "ぇ",
+      "category": "small_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words including だいじょうぶ and たった",
+      "lossless_literal": true
+    },
+    {
+      "code": "32",
+      "unicode": "ぉ",
+      "category": "small_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words including だいじょうぶ and たった",
+      "lossless_literal": true
+    },
+    {
+      "code": "33",
+      "unicode": "っ",
+      "category": "small_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words including だいじょうぶ and たった",
+      "lossless_literal": true
+    },
+    {
+      "code": "34",
+      "unicode": "ゃ",
+      "category": "small_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words including だいじょうぶ and たった",
+      "lossless_literal": true
+    },
+    {
+      "code": "35",
+      "unicode": "ゅ",
+      "category": "small_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words including だいじょうぶ and たった",
+      "lossless_literal": true
+    },
+    {
+      "code": "36",
+      "unicode": "ょ",
+      "category": "small_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words including だいじょうぶ and たった",
+      "lossless_literal": true
+    },
+    {
+      "code": "40",
+      "unicode": "が",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "41",
+      "unicode": "ぎ",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "42",
+      "unicode": "ぐ",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "43",
+      "unicode": "げ",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "44",
+      "unicode": "ご",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "45",
+      "unicode": "ざ",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "46",
+      "unicode": "じ",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "47",
+      "unicode": "ず",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "48",
+      "unicode": "ぜ",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "49",
+      "unicode": "ぞ",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "4A",
+      "unicode": "だ",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "4B",
+      "unicode": "ぢ",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "4C",
+      "unicode": "づ",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "4D",
+      "unicode": "で",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "4E",
+      "unicode": "ど",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "4F",
+      "unicode": "ば",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "50",
+      "unicode": "び",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "51",
+      "unicode": "ぶ",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "52",
+      "unicode": "べ",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "53",
+      "unicode": "ぼ",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "54",
+      "unicode": "ぱ",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "55",
+      "unicode": "ぴ",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "56",
+      "unicode": "ぷ",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "57",
+      "unicode": "ぺ",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "58",
+      "unicode": "ぽ",
+      "category": "voiced_hiragana",
+      "confidence": "verified_sequence",
+      "evidence": "ROM words だいじょうぶ/げ/で and contiguous gojuon sequence",
+      "lossless_literal": true
+    },
+    {
+      "code": "59",
+      "unicode": "ガ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "5A",
+      "unicode": "ギ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "5B",
+      "unicode": "グ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "5C",
+      "unicode": "ゲ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "5D",
+      "unicode": "ゴ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "5E",
+      "unicode": "ザ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "5F",
+      "unicode": "ジ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "60",
+      "unicode": "ズ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "61",
+      "unicode": "ゼ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "62",
+      "unicode": "ゾ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "63",
+      "unicode": "ダ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "64",
+      "unicode": "ヂ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "65",
+      "unicode": "ヅ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "66",
+      "unicode": "デ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "67",
+      "unicode": "ド",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "68",
+      "unicode": "バ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "69",
+      "unicode": "ビ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "6A",
+      "unicode": "ブ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "6B",
+      "unicode": "ベ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "6C",
+      "unicode": "ボ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "6D",
+      "unicode": "パ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "6E",
+      "unicode": "ピ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "6F",
+      "unicode": "プ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "70",
+      "unicode": "ペ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "71",
+      "unicode": "ポ",
+      "category": "voiced_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names ポルンガ/ゲンツ/ドリスコル/ボビー/ピーヴィー",
+      "lossless_literal": true
+    },
+    {
+      "code": "80",
+      "unicode": "ア",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "81",
+      "unicode": "イ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "82",
+      "unicode": "ウ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "83",
+      "unicode": "エ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "84",
+      "unicode": "オ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "85",
+      "unicode": "カ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "86",
+      "unicode": "キ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "87",
+      "unicode": "ク",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "88",
+      "unicode": "ケ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "89",
+      "unicode": "コ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "8A",
+      "unicode": "サ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "8B",
+      "unicode": "シ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "8C",
+      "unicode": "ス",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "8D",
+      "unicode": "セ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "8E",
+      "unicode": "ソ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "8F",
+      "unicode": "タ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "90",
+      "unicode": "チ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "91",
+      "unicode": "ツ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "92",
+      "unicode": "テ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "93",
+      "unicode": "ト",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "94",
+      "unicode": "ナ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "95",
+      "unicode": "ニ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "96",
+      "unicode": "ヌ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "97",
+      "unicode": "ネ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "98",
+      "unicode": "ノ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "99",
+      "unicode": "ハ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "9A",
+      "unicode": "ヒ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "9B",
+      "unicode": "フ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "9C",
+      "unicode": "ヘ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "9D",
+      "unicode": "ホ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "9E",
+      "unicode": "マ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "9F",
+      "unicode": "ミ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "A0",
+      "unicode": "ム",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "A1",
+      "unicode": "メ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "A2",
+      "unicode": "モ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "A3",
+      "unicode": "ヤ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "A4",
+      "unicode": "ユ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "A5",
+      "unicode": "ヨ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "A6",
+      "unicode": "ラ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "A7",
+      "unicode": "リ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "A8",
+      "unicode": "ル",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "A9",
+      "unicode": "レ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "AA",
+      "unicode": "ロ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "AB",
+      "unicode": "ワ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "AC",
+      "unicode": "ヲ",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "AD",
+      "unicode": "ン",
+      "category": "katakana",
+      "confidence": "verified_sequence",
+      "evidence": "Character names and 作戦要項ファイル オープン",
+      "lossless_literal": true
+    },
+    {
+      "code": "AE",
+      "unicode": "ァ",
+      "category": "small_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "ファイル and フレデリック",
+      "lossless_literal": true
+    },
+    {
+      "code": "AF",
+      "unicode": "ィ",
+      "category": "small_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "ファイル and フレデリック",
+      "lossless_literal": true
+    },
+    {
+      "code": "B0",
+      "unicode": "ゥ",
+      "category": "small_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "ファイル and フレデリック",
+      "lossless_literal": true
+    },
+    {
+      "code": "B1",
+      "unicode": "ェ",
+      "category": "small_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "ファイル and フレデリック",
+      "lossless_literal": true
+    },
+    {
+      "code": "B2",
+      "unicode": "ォ",
+      "category": "small_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "ファイル and フレデリック",
+      "lossless_literal": true
+    },
+    {
+      "code": "B3",
+      "unicode": "ッ",
+      "category": "small_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "ファイル and フレデリック",
+      "lossless_literal": true
+    },
+    {
+      "code": "B4",
+      "unicode": "ャ",
+      "category": "small_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "ファイル and フレデリック",
+      "lossless_literal": true
+    },
+    {
+      "code": "B5",
+      "unicode": "ュ",
+      "category": "small_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "ファイル and フレデリック",
+      "lossless_literal": true
+    },
+    {
+      "code": "B6",
+      "unicode": "ョ",
+      "category": "small_katakana",
+      "confidence": "verified_sequence",
+      "evidence": "ファイル and フレデリック",
+      "lossless_literal": true
+    },
+    {
+      "code": "72",
+      "unicode": "ヴ",
+      "category": "katakana",
+      "confidence": "verified_context",
+      "evidence": "ヴァンツァー appears repeatedly in story text",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:00",
+      "unicode": "a",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:01",
+      "unicode": "b",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:02",
+      "unicode": "c",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:03",
+      "unicode": "d",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:04",
+      "unicode": "e",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:05",
+      "unicode": "f",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:06",
+      "unicode": "g",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:07",
+      "unicode": "h",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:08",
+      "unicode": "i",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:09",
+      "unicode": "j",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:0A",
+      "unicode": "k",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:0B",
+      "unicode": "l",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:0C",
+      "unicode": "m",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:0D",
+      "unicode": "n",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:0E",
+      "unicode": "o",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:0F",
+      "unicode": "p",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:10",
+      "unicode": "q",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:11",
+      "unicode": "r",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:12",
+      "unicode": "s",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:13",
+      "unicode": "t",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:14",
+      "unicode": "u",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:15",
+      "unicode": "v",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:16",
+      "unicode": "w",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:17",
+      "unicode": "x",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:18",
+      "unicode": "y",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:19",
+      "unicode": "z",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:40",
+      "unicode": "A",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:41",
+      "unicode": "B",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:42",
+      "unicode": "C",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:43",
+      "unicode": "D",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:44",
+      "unicode": "E",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:45",
+      "unicode": "F",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:46",
+      "unicode": "G",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:47",
+      "unicode": "H",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:48",
+      "unicode": "I",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:49",
+      "unicode": "J",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:4A",
+      "unicode": "K",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:4B",
+      "unicode": "L",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:4C",
+      "unicode": "M",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:4D",
+      "unicode": "N",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:4E",
+      "unicode": "O",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:4F",
+      "unicode": "P",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:50",
+      "unicode": "Q",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:51",
+      "unicode": "R",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:52",
+      "unicode": "S",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:53",
+      "unicode": "T",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:54",
+      "unicode": "U",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:55",
+      "unicode": "V",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:56",
+      "unicode": "W",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:57",
+      "unicode": "X",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:58",
+      "unicode": "Y",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:59",
+      "unicode": "Z",
+      "category": "latin",
+      "confidence": "verified_atlas",
+      "evidence": "C0 Latin atlas and runtime English briefing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:1A",
+      "unicode": "1",
+      "category": "punctuation_or_digit",
+      "confidence": "verified_context",
+      "evidence": "native Rabbit 1",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:1B",
+      "unicode": "2",
+      "category": "punctuation_or_digit",
+      "confidence": "verified_context",
+      "evidence": "native numeric table",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:1C",
+      "unicode": "3",
+      "category": "punctuation_or_digit",
+      "confidence": "verified_context",
+      "evidence": "native 30 km",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:1D",
+      "unicode": "4",
+      "category": "punctuation_or_digit",
+      "confidence": "verified_context",
+      "evidence": "native numeric table",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:1E",
+      "unicode": "5",
+      "category": "punctuation_or_digit",
+      "confidence": "verified_context",
+      "evidence": "native numeric table",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:1F",
+      "unicode": "6",
+      "category": "punctuation_or_digit",
+      "confidence": "verified_context",
+      "evidence": "native numeric table",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:20",
+      "unicode": "7",
+      "category": "punctuation_or_digit",
+      "confidence": "verified_context",
+      "evidence": "native numeric table",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:21",
+      "unicode": "8",
+      "category": "punctuation_or_digit",
+      "confidence": "verified_context",
+      "evidence": "native numeric table",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:22",
+      "unicode": "9",
+      "category": "punctuation_or_digit",
+      "confidence": "verified_context",
+      "evidence": "native numeric table",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:23",
+      "unicode": "0",
+      "category": "punctuation_or_digit",
+      "confidence": "verified_context",
+      "evidence": "native 30 km",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:2E",
+      "unicode": "-",
+      "category": "punctuation_or_digit",
+      "confidence": "verified_context",
+      "evidence": "briefing title",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:33",
+      "unicode": "(",
+      "category": "punctuation_or_digit",
+      "confidence": "verified_context",
+      "evidence": "(USN)/(OCU) narrative notation",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:34",
+      "unicode": ")",
+      "category": "punctuation_or_digit",
+      "confidence": "verified_context",
+      "evidence": "(USN)/(OCU) narrative notation",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:35",
+      "unicode": ",",
+      "category": "punctuation_or_digit",
+      "confidence": "verified_context",
+      "evidence": "dialogue punctuation",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:36",
+      "unicode": ".",
+      "category": "punctuation_or_digit",
+      "confidence": "verified_context",
+      "evidence": "runtime English dialogue",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:37",
+      "unicode": "…",
+      "category": "punctuation_or_digit",
+      "confidence": "verified_context",
+      "evidence": "Japanese ellipsis and pacing variants",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:38",
+      "unicode": "!",
+      "category": "punctuation_or_digit",
+      "confidence": "verified_context",
+      "evidence": "runtime punctuation atlas",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:39",
+      "unicode": "?",
+      "category": "punctuation_or_digit",
+      "confidence": "verified_context",
+      "evidence": "runtime punctuation atlas",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:3A",
+      "unicode": ":",
+      "category": "punctuation_or_digit",
+      "confidence": "verified_context",
+      "evidence": "speaker separator",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:3F",
+      "unicode": " ",
+      "category": "punctuation_or_digit",
+      "confidence": "verified_context",
+      "evidence": "word spacing",
+      "lossless_literal": true
+    },
+    {
+      "code": "C4:80",
+      "unicode": "ー",
+      "category": "japanese_punctuation",
+      "confidence": "verified_context",
+      "evidence": "オープン and character names",
+      "lossless_literal": true
+    },
+    {
+      "code": "C5:9E",
+      "unicode": "。",
+      "category": "japanese_punctuation",
+      "confidence": "verified_context",
+      "evidence": "sentence terminator throughout ROM",
+      "lossless_literal": true
+    },
+    {
+      "code": "FD:00",
+      "unicode": "A",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:01",
+      "unicode": "B",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:02",
+      "unicode": "C",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:03",
+      "unicode": "D",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:04",
+      "unicode": "E",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:05",
+      "unicode": "F",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:06",
+      "unicode": "G",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:07",
+      "unicode": "H",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:08",
+      "unicode": "I",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:09",
+      "unicode": "J",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:0A",
+      "unicode": "K",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:0B",
+      "unicode": "L",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:0C",
+      "unicode": "M",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:0D",
+      "unicode": "N",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:0E",
+      "unicode": "O",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:0F",
+      "unicode": "P",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:10",
+      "unicode": "Q",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:11",
+      "unicode": "R",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:12",
+      "unicode": "S",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:13",
+      "unicode": "T",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:14",
+      "unicode": "U",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:15",
+      "unicode": "V",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:16",
+      "unicode": "W",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:17",
+      "unicode": "X",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:18",
+      "unicode": "Y",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:19",
+      "unicode": "Z",
+      "category": "alternate_latin",
+      "confidence": "verified_context",
+      "evidence": "FD page spells THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:1A",
+      "unicode": "1",
+      "category": "alternate_digit",
+      "confidence": "verified_context",
+      "evidence": "FD page numeric result/summary layouts",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:1B",
+      "unicode": "2",
+      "category": "alternate_digit",
+      "confidence": "verified_context",
+      "evidence": "FD page numeric result/summary layouts",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:1C",
+      "unicode": "3",
+      "category": "alternate_digit",
+      "confidence": "verified_context",
+      "evidence": "FD page numeric result/summary layouts",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:1D",
+      "unicode": "4",
+      "category": "alternate_digit",
+      "confidence": "verified_context",
+      "evidence": "FD page numeric result/summary layouts",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:1E",
+      "unicode": "5",
+      "category": "alternate_digit",
+      "confidence": "verified_context",
+      "evidence": "FD page numeric result/summary layouts",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:1F",
+      "unicode": "6",
+      "category": "alternate_digit",
+      "confidence": "verified_context",
+      "evidence": "FD page numeric result/summary layouts",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:20",
+      "unicode": "7",
+      "category": "alternate_digit",
+      "confidence": "verified_context",
+      "evidence": "FD page numeric result/summary layouts",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:21",
+      "unicode": "8",
+      "category": "alternate_digit",
+      "confidence": "verified_context",
+      "evidence": "FD page numeric result/summary layouts",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:22",
+      "unicode": "9",
+      "category": "alternate_digit",
+      "confidence": "verified_context",
+      "evidence": "FD page numeric result/summary layouts",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:23",
+      "unicode": "0",
+      "category": "alternate_digit",
+      "confidence": "verified_context",
+      "evidence": "FD page numeric result/summary layouts",
+      "lossless_literal": false
+    },
+    {
+      "code": "FD:2E",
+      "unicode": " ",
+      "category": "alternate_space",
+      "confidence": "verified_context",
+      "evidence": "FD page word separator in THANK YOU FOR PLAYING",
+      "lossless_literal": false
+    },
+    {
+      "code": "C1:3B",
+      "unicode": "作",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 作戦要項",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:13",
+      "unicode": "戦",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 作戦要項",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:AE",
+      "unicode": "要",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 作戦要項",
+      "lossless_literal": true
+    },
+    {
+      "code": "C5:14",
+      "unicode": "項",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 作戦要項",
+      "lossless_literal": true
+    },
+    {
+      "code": "C5:81",
+      "unicode": "兵",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: USN兵 / 傭兵",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:B4",
+      "unicode": "敵",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 敵部隊 / 敵の増援",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:B5",
+      "unicode": "部",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 部隊 / 全部",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:B6",
+      "unicode": "隊",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 部隊 / 隊長",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:03",
+      "unicode": "長",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: USN隊長",
+      "lossless_literal": true
+    },
+    {
+      "code": "C4:4A",
+      "unicode": "軍",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: オシアナ軍",
+      "lossless_literal": true
+    },
+    {
+      "code": "C4:3B",
+      "unicode": "員",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 隊員 speaker signature",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:BA",
+      "unicode": "機",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 敵機 / 4機",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:29",
+      "unicode": "全",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 敵部隊は全滅",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:23",
+      "unicode": "滅",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 敵部隊は全滅",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:91",
+      "unicode": "武",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 武器を持っていなかった",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:92",
+      "unicode": "器",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 武器を持っていなかった",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:14",
+      "unicode": "闘",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 戦闘しなきゃならん",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:32",
+      "unicode": "援",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 援護 / 増援",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:21",
+      "unicode": "護",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 援護しよう",
+      "lossless_literal": true
+    },
+    {
+      "code": "C4:3F",
+      "unicode": "街",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 街が襲われてる",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:1F",
+      "unicode": "襲",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 街が襲われてる / 襲撃",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:22",
+      "unicode": "撃",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 襲撃",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:5F",
+      "unicode": "了",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 了解した / 完了",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:92",
+      "unicode": "解",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 了解した",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:33",
+      "unicode": "命",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 命令違反",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:34",
+      "unicode": "令",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 命令違反",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:AA",
+      "unicode": "違",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 命令違反",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:AB",
+      "unicode": "反",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 命令違反",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:78",
+      "unicode": "引",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 引き上げましょう",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:36",
+      "unicode": "上",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 引き上げ / 仕上げ",
+      "lossless_literal": true
+    },
+    {
+      "code": "C4:3D",
+      "unicode": "大",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: オルソン大佐",
+      "lossless_literal": true
+    },
+    {
+      "code": "C4:3E",
+      "unicode": "佐",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: オルソン大佐",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:4F",
+      "unicode": "知",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 知られてしまう / 知らない",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:88",
+      "unicode": "病",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 病院はどこだ",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:8E",
+      "unicode": "院",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 病院はどこだ",
+      "lossless_literal": true
+    },
+    {
+      "code": "C4:6E",
+      "unicode": "奥",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: あの奥の建物",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:6E",
+      "unicode": "建",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 建物",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:1A",
+      "unicode": "物",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 建物",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:9F",
+      "unicode": "止",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: あなたも止めて",
+      "lossless_literal": true
+    },
+    {
+      "code": "C4:3C",
+      "unicode": "俺",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 俺はかまわねえ / 俺に話して",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:2B",
+      "unicode": "金",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 金も入ってくる",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:0D",
+      "unicode": "入",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 金も入る / 軍に入る",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:88",
+      "unicode": "右",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 右に同じ",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:9E",
+      "unicode": "同",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 右に同じ",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:0D",
+      "unicode": "増",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 敵の増援",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:B7",
+      "unicode": "現",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 増援が現れました",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:A0",
+      "unicode": "構",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 構わん",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:0F",
+      "unicode": "続",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 作戦は続行",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:BB",
+      "unicode": "行",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 続行 / 行う",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:94",
+      "unicode": "輸",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 輸送車",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:61",
+      "unicode": "送",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 輸送車",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:54",
+      "unicode": "車",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 輸送車",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:0B",
+      "unicode": "積",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 積み込み",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:B8",
+      "unicode": "込",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 積み込み",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:9B",
+      "unicode": "急",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 急げ / 緊急",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:44",
+      "unicode": "私",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 私は少し移動してくる",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:30",
+      "unicode": "少",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 少し",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:58",
+      "unicode": "移",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 移動",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:BC",
+      "unicode": "動",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 移動 / この動き",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:59",
+      "unicode": "男",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: この男はサカタの息子",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:95",
+      "unicode": "息",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 息子",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:00",
+      "unicode": "子",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 息子",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:22",
+      "unicode": "自",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 自分の父親",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:A6",
+      "unicode": "分",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 自分",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:65",
+      "unicode": "父",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 父親",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:5C",
+      "unicode": "親",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 父親",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:04",
+      "unicode": "聞",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 聞いてみる",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:85",
+      "unicode": "完",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 完了しました",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:BD",
+      "unicode": "遊",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 遊びはこれまで",
+      "lossless_literal": true
+    },
+    {
+      "code": "C4:77",
+      "unicode": "緊",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 緊急退避",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:25",
+      "unicode": "退",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 退避",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:5C",
+      "unicode": "避",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 退避",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:7C",
+      "unicode": "仕",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 仕上げを行う",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:85",
+      "unicode": "損",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 損傷",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:86",
+      "unicode": "傷",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 損傷",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:5D",
+      "unicode": "受",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 損傷は受けた",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:76",
+      "unicode": "任",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 任務",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:82",
+      "unicode": "務",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 任務",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:1B",
+      "unicode": "成",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 成功",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:3C",
+      "unicode": "功",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 成功",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:62",
+      "unicode": "燃",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 燃えている",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:5E",
+      "unicode": "話",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: カレンと話した / カレンが話す",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:AC",
+      "unicode": "工",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 工場",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:AD",
+      "unicode": "場",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 工場",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:68",
+      "unicode": "破",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 工場が破壊された",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:9D",
+      "unicode": "壊",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 破壊",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:29",
+      "unicode": "対",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: これに対し",
+      "lossless_literal": true
+    },
+    {
+      "code": "C5:A3",
+      "unicode": "傭",
+      "category": "kanji",
+      "confidence": "verified_context_alignment",
+      "evidence": "WSC Japanese context aligned to supplied SNES v1.0b: 傭兵部隊",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:17",
+      "unicode": "空",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 上空 / 空軍 / 対空",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:6E",
+      "unicode": "攻",
+      "category": "kanji",
+      "confidence": "verified_multi_context_v0.10",
+      "evidence": "攻撃 / 攻撃機",
+      "lossless_literal": false
+    },
+    {
+      "code": "C0:B2",
+      "unicode": "通",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 通過 / 通称 / 通れる / その通り",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:65",
+      "unicode": "過",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 爆撃機通過",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:43",
+      "unicode": "占",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 占領",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:0B",
+      "unicode": "領",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 占領",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:75",
+      "unicode": "市",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: フリーダム市",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:A8",
+      "unicode": "先",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 先に / 先発",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:BA",
+      "unicode": "以",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 以上",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:A3",
+      "unicode": "開",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 作戦開始",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:A4",
+      "unicode": "始",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 開始 / 始末",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:57",
+      "unicode": "連",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 連中",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:56",
+      "unicode": "中",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 連中 / 森の中",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:9F",
+      "unicode": "思",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 思う",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:1F",
+      "unicode": "結",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 結局",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:4C",
+      "unicode": "局",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 結局",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:4A",
+      "unicode": "飛",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 飛行機",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:97",
+      "unicode": "乗",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 乗っている",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:4D",
+      "unicode": "考",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 考える",
+      "lossless_literal": true
+    },
+    {
+      "code": "C4:21",
+      "unicode": "食",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 食べる",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:5B",
+      "unicode": "若",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 若者 / 若い命",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:7C",
+      "unicode": "使",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 使い捨て",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:8F",
+      "unicode": "捨",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 使い捨て",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:7D",
+      "unicode": "関",
+      "category": "kanji",
+      "confidence": "verified_multi_context_v0.10",
+      "evidence": "関係 / 機関",
+      "lossless_literal": false
+    },
+    {
+      "code": "C2:97",
+      "unicode": "係",
+      "category": "kanji",
+      "confidence": "verified_multi_context_v0.10",
+      "evidence": "関係",
+      "lossless_literal": false
+    },
+    {
+      "code": "C0:A2",
+      "unicode": "気",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 気にする / 気をつける",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:AF",
+      "unicode": "事",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 仕事 / 無事",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:4B",
+      "unicode": "言",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 言う",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:20",
+      "unicode": "合",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 場合 / 間に合う",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:B0",
+      "unicode": "残",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 残る",
+      "lossless_literal": true
+    },
+    {
+      "code": "C5:16",
+      "unicode": "帰",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 帰る",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:62",
+      "unicode": "追",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 追撃 / 追われる",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:95",
+      "unicode": "手",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 追手 / 相手 / 手強い",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:86",
+      "unicode": "逃",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 逃げる",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:59",
+      "unicode": "方",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 前方 / 後方 / 方がいい",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:46",
+      "unicode": "間",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 間に合う / 民間",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:7E",
+      "unicode": "接",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 接近",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:9A",
+      "unicode": "近",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 接近",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:42",
+      "unicode": "落",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 撃ち落とす",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:45",
+      "unicode": "散",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 命が散る",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:2D",
+      "unicode": "失",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 失敗",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:31",
+      "unicode": "敗",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 失敗",
+      "lossless_literal": true
+    },
+    {
+      "code": "C4:2C",
+      "unicode": "航",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 航空機",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:B7",
+      "unicode": "攻",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 攻撃",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:3F",
+      "unicode": "差",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 差し引く",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:49",
+      "unicode": "正",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 正規兵 / 正確",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:5B",
+      "unicode": "規",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 正規兵",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:40",
+      "unicode": "師",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 機動師団",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:9E",
+      "unicode": "団",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 師団",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:8B",
+      "unicode": "増",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 増援",
+      "lossless_literal": false
+    },
+    {
+      "code": "C5:44",
+      "unicode": "歯",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 歯が立たない",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:B4",
+      "unicode": "立",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 歯が立たない / 立ち入り",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:69",
+      "unicode": "精",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 精鋭",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:43",
+      "unicode": "鋭",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 精鋭",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:7F",
+      "unicode": "称",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 通称",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:67",
+      "unicode": "地",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 地獄",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:71",
+      "unicode": "獄",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 地獄",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:AC",
+      "unicode": "壁",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 地獄の壁",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:87",
+      "unicode": "左",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 左から",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:8A",
+      "unicode": "厚",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 壁の厚さ",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:4D",
+      "unicode": "跡",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 跡形",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:B4",
+      "unicode": "形",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 跡形",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:3A",
+      "unicode": "相",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 相手",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:83",
+      "unicode": "力",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 力 / 火力",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:8F",
+      "unicode": "当",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 当たる",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:9E",
+      "unicode": "不",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 不運",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:8D",
+      "unicode": "運",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 不運",
+      "lossless_literal": true
+    },
+    {
+      "code": "C5:5A",
+      "unicode": "虫",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 虫ケラ",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:1B",
+      "unicode": "度",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 度胸 / 一度",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:8E",
+      "unicode": "胸",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 度胸",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:B3",
+      "unicode": "囲",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 囲まれる",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:B6",
+      "unicode": "直",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 直撃 / 直後",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:82",
+      "unicode": "術",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 戦術",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:97",
+      "unicode": "用",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 通用",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:B2",
+      "unicode": "丈",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 大丈夫",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:B3",
+      "unicode": "夫",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 大丈夫",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:40",
+      "unicode": "無",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 無事 / 無視",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:55",
+      "unicode": "簡",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 簡単",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:57",
+      "unicode": "単",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 簡単",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:AD",
+      "unicode": "意",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 意外",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:8F",
+      "unicode": "外",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 意外",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:0A",
+      "unicode": "戻",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 戻る",
+      "lossless_literal": true
+    },
+    {
+      "code": "C5:8F",
+      "unicode": "良",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 良さそう",
+      "lossless_literal": true
+    },
+    {
+      "code": "C5:95",
+      "unicode": "飲",
+      "category": "kanji",
+      "confidence": "verified_multi_context_v0.10",
+      "evidence": "飲む / 飲みに来る",
+      "lossless_literal": false
+    },
+    {
+      "code": "C5:AB",
+      "unicode": "疲",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 疲れる",
+      "lossless_literal": true
+    },
+    {
+      "code": "C5:65",
+      "unicode": "旦",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 一旦",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:A2",
+      "unicode": "腹",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 腹が減る",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:74",
+      "unicode": "減",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 腹が減る / 手取りが減る",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:4D",
+      "unicode": "体",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 機体",
+      "lossless_literal": true
+    },
+    {
+      "code": "C5:A1",
+      "unicode": "整",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 整備",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:94",
+      "unicode": "備",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 準備 / 整備",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:AB",
+      "unicode": "必",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 必要",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:BB",
+      "unicode": "修",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 修理",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:15",
+      "unicode": "理",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 修理",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:71",
+      "unicode": "報",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 報告 / 情報",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:0E",
+      "unicode": "告",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 報告",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:1E",
+      "unicode": "強",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 強い / 手強い",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:04",
+      "unicode": "離",
+      "category": "kanji",
+      "confidence": "verified_multi_context_v0.10",
+      "evidence": "離脱 / 戦場を離れる / 一撃離脱 / 遠距離攻撃",
+      "lossless_literal": false
+    },
+    {
+      "code": "C1:05",
+      "unicode": "脱",
+      "category": "kanji",
+      "confidence": "verified_multi_context_v0.10",
+      "evidence": "離脱 / 脱走 / 脱落",
+      "lossless_literal": false
+    },
+    {
+      "code": "C3:75",
+      "unicode": "神",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 神は見ている",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:90",
+      "unicode": "見",
+      "category": "kanji",
+      "confidence": "verified_multi_context_v0.10",
+      "evidence": "見ている / 見える",
+      "lossless_literal": false
+    },
+    {
+      "code": "C2:5A",
+      "unicode": "嫌",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 嫌い",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:B7",
+      "unicode": "奪",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 奪回",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:07",
+      "unicode": "回",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 奪回 / 今回 / 逃げ回る",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:53",
+      "unicode": "働",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: ひと働き",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:49",
+      "unicode": "郊",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 郊外",
+      "lossless_literal": true
+    },
+    {
+      "code": "C5:6D",
+      "unicode": "外",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 郊外",
+      "lossless_literal": false
+    },
+    {
+      "code": "C2:6F",
+      "unicode": "撤",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 撤退",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:15",
+      "unicode": "準",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 準備",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:09",
+      "unicode": "末",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 始末",
+      "lossless_literal": true
+    },
+    {
+      "code": "C5:6E",
+      "unicode": "倒",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 倒す",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:63",
+      "unicode": "型",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: クリントン型",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:2A",
+      "unicode": "賞",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 賞金",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:BD",
+      "unicode": "火",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 火力",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:84",
+      "unicode": "慎",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 慎重",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:70",
+      "unicode": "重",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 慎重",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:27",
+      "unicode": "進",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 前進",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:2E",
+      "unicode": "迫",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 迫る",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:24",
+      "unicode": "待",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 待つ",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:53",
+      "unicode": "後",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 後方 / 直後",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:9E",
+      "unicode": "未",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 未確認",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:07",
+      "unicode": "認",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 確認",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:39",
+      "unicode": "何",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 何者",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:A7",
+      "unicode": "者",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 何者 / 記者",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:A4",
+      "unicode": "探",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 探る / 逆探知",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:72",
+      "unicode": "侵",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 侵入",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:73",
+      "unicode": "逆",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 逆探知",
+      "lossless_literal": true
+    },
+    {
+      "code": "C4:55",
+      "unicode": "頼",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 頼む",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:75",
+      "unicode": "安",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 安全",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:44",
+      "unicode": "身",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 身を隠す",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:A7",
+      "unicode": "隠",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 隠す",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:76",
+      "unicode": "木",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 木",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:14",
+      "unicode": "森",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 森",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:70",
+      "unicode": "情",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 情報",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:A9",
+      "unicode": "堅",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: ガードが堅い",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:90",
+      "unicode": "研",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 研究所",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:91",
+      "unicode": "究",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 研究所",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:74",
+      "unicode": "所",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 研究所 / こんな所",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:9B",
+      "unicode": "着",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 行き着く",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:BF",
+      "unicode": "分",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 分からない / 気分",
+      "lossless_literal": false
+    },
+    {
+      "code": "C2:35",
+      "unicode": "好",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 好きにしろ",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:7A",
+      "unicode": "取",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 手取り",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:30",
+      "unicode": "頭",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 頭にくる",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:21",
+      "unicode": "流",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 一流",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:5F",
+      "unicode": "記",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 記者",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:2B",
+      "unicode": "相",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 相手",
+      "lossless_literal": false
+    },
+    {
+      "code": "C2:3C",
+      "unicode": "負",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 負ける",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:66",
+      "unicode": "覚",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 覚えている",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:52",
+      "unicode": "酒",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 酒場",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:12",
+      "unicode": "死",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 死ぬ",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:50",
+      "unicode": "争",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 戦争",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:B5",
+      "unicode": "勃",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 勃発",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:4A",
+      "unicode": "発",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 勃発 / 先発",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:8A",
+      "unicode": "両",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 両軍",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:B6",
+      "unicode": "戦",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 戦場",
+      "lossless_literal": false
+    },
+    {
+      "code": "C3:1B",
+      "unicode": "場",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 戦場",
+      "lossless_literal": false
+    },
+    {
+      "code": "C5:94",
+      "unicode": "激",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 激しく",
+      "lossless_literal": true
+    },
+    {
+      "code": "C5:96",
+      "unicode": "衝",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 衝突",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:90",
+      "unicode": "突",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 衝突",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:B1",
+      "unicode": "民",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 民間人",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:7A",
+      "unicode": "巻",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 巻き込まれる",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:28",
+      "unicode": "悪",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 悪の根源",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:1D",
+      "unicode": "根",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 根源",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:BB",
+      "unicode": "源",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 根源",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:1F",
+      "unicode": "原",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 原因",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:21",
+      "unicode": "因",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 原因",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:20",
+      "unicode": "罪",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 罪もない",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:98",
+      "unicode": "達",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 人達",
+      "lossless_literal": true
+    },
+    {
+      "code": "C4:5B",
+      "unicode": "前",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 前方 / 以前",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:BF",
+      "unicode": "禁",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 立ち入り禁止",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:71",
+      "unicode": "済",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 済まない / 済んだ",
+      "lossless_literal": true
+    },
+    {
+      "code": "C4:42",
+      "unicode": "油",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 油断",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:A0",
+      "unicode": "断",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 油断",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:A1",
+      "unicode": "集",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 集中",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:6A",
+      "unicode": "殺",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 殺す",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:98",
+      "unicode": "偵",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 偵察",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:99",
+      "unicode": "察",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 偵察",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:08",
+      "unicode": "任",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 任務",
+      "lossless_literal": false
+    },
+    {
+      "code": "C1:09",
+      "unicode": "務",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 任務",
+      "lossless_literal": false
+    },
+    {
+      "code": "C1:41",
+      "unicode": "視",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 無視",
+      "lossless_literal": true
+    },
+    {
+      "code": "C5:2B",
+      "unicode": "価",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 価値",
+      "lossless_literal": true
+    },
+    {
+      "code": "C5:2C",
+      "unicode": "値",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 価値",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:06",
+      "unicode": "今",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 今回",
+      "lossless_literal": true
+    },
+    {
+      "code": "C5:7A",
+      "unicode": "果",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 果たす / 戦果",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:83",
+      "unicode": "危",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 危ない",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:B9",
+      "unicode": "助",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 助ける",
+      "lossless_literal": true
+    },
+    {
+      "code": "C5:68",
+      "unicode": "困",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 困る",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:26",
+      "unicode": "炎",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 炎",
+      "lossless_literal": true
+    },
+    {
+      "code": "C3:27",
+      "unicode": "焼",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 焼かれる",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:47",
+      "unicode": "一",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 一人 / 一度 / 一旦",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:12",
+      "unicode": "人",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 一人 / 民間人",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:4C",
+      "unicode": "生",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 生き残る",
+      "lossless_literal": true
+    },
+    {
+      "code": "C1:AC",
+      "unicode": "決",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 決める",
+      "lossless_literal": true
+    },
+    {
+      "code": "C4:0D",
+      "unicode": "怒",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 怒り",
+      "lossless_literal": true
+    },
+    {
+      "code": "C2:20",
+      "unicode": "許",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 許す",
+      "lossless_literal": true
+    },
+    {
+      "code": "C4:13",
+      "unicode": "復",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 復讐",
+      "lossless_literal": true
+    },
+    {
+      "code": "C4:14",
+      "unicode": "讐",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: 復讐",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:3C",
+      "unicode": "「",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: Japanese opening quote",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:3D",
+      "unicode": "」",
+      "category": "kanji_or_symbol",
+      "confidence": "verified_context_alignment_v0.9",
+      "evidence": "Exact WSC Japanese scene aligned to supplied SNES v1.0b: Japanese closing quote",
+      "lossless_literal": true
+    },
+    {
+      "code": "C0:81",
+      "unicode": "造",
+      "category": "kanji",
+      "confidence": "verified_multi_context_v0.10",
+      "evidence": "改造 / 若造",
+      "lossless_literal": false
+    },
+    {
+      "code": "C1:5A",
+      "unicode": "終",
+      "category": "kanji",
+      "confidence": "verified_multi_context_v0.10",
+      "evidence": "終了 / 終わる",
+      "lossless_literal": false
+    },
+    {
+      "code": "C1:7B",
+      "unicode": "野",
+      "category": "kanji",
+      "confidence": "verified_multi_context_v0.10",
+      "evidence": "野郎 / 野戦病院",
+      "lossless_literal": false
+    },
+    {
+      "code": "C2:6C",
+      "unicode": "限",
+      "category": "kanji",
+      "confidence": "verified_multi_context_v0.10",
+      "evidence": "限界 / 限る",
+      "lossless_literal": false
+    },
+    {
+      "code": "C2:8B",
+      "unicode": "界",
+      "category": "kanji",
+      "confidence": "verified_multi_context_v0.10",
+      "evidence": "限界 / 世界",
+      "lossless_literal": false
+    },
+    {
+      "code": "C2:9F",
+      "unicode": "休",
+      "category": "kanji",
+      "confidence": "verified_multi_context_v0.10",
+      "evidence": "休む / 休暇 / 休憩",
+      "lossless_literal": false
+    },
+    {
+      "code": "C4:7A",
+      "unicode": "郎",
+      "category": "kanji",
+      "confidence": "verified_multi_context_v0.10",
+      "evidence": "野郎",
+      "lossless_literal": false
+    }
+  ],
+  "v0.10_added_entries": 7,
+  "v0.10_corrected_entries": 4,
+  "v0.10_corrections": [
+    {
+      "code": "C1:04",
+      "old": "脱",
+      "new": "離"
+    },
+    {
+      "code": "C1:05",
+      "old": "出",
+      "new": "脱"
+    },
+    {
+      "code": "C1:6E",
+      "old": "爆",
+      "new": "攻"
+    },
+    {
+      "code": "C5:95",
+      "old": "休",
+      "new": "飲"
+    }
+  ],
+  "v0.11_added_entries": 0,
+  "v0.11_corrected_entries": 0,
+  "v0.12_added_entries": 0,
+  "v0.12_corrected_entries": 0,
+  "v0.13_added_entries": 0,
+  "v0.13_corrected_entries": 0
+}

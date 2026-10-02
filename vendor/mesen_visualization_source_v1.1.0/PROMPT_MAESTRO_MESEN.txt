@@ -1,0 +1,68 @@
+PROMPT MAESTRO: VISUALIZAR Y VALIDAR ROMS CON MESEN 2.1.1 EN LINUX
+
+Usa el paquete mesen_visualization_source como fuente tecnica obligatoria para ejecutar Mesen y generar previews autenticos. No supongas que la ausencia de una pantalla fisica impide todas las capturas.
+
+OBJETIVO
+
+1. Preparar el binario oficial Mesen 2.1.1 en modo portable.
+2. Permitir que v1.1.0 cree `settings.json` automáticamente antes de usar `--testRunner`.
+3. Elegir el modo correcto:
+   - Preview de framebuffer: `--testRunner` + Lua + `emu.takeScreenshot()`. No necesita DISPLAY.
+   - Ventana de Mesen: DISPLAY existente o GUI bajo Xvfb.
+4. Generar al menos una captura real y un reporte con hashes antes de declarar validacion visual.
+
+REGLAS IMPORTANTES
+
+- No reinstales Mesen si ya existe el binario correcto.
+- No uses la BIOS de GBA para ROMs WonderSwan.
+- No confundas `--testRunner` con una GUI headless: no muestra ventana, pero si ejecuta el nucleo y puede capturar el framebuffer.
+- Antes de `--testRunner`, verifica que `settings.json` exista junto al ejecutable portable. `{}` es un perfil minimo valido.
+- En Lua usa `emu.takeScreenshot()` y termina con `emu.stop(0)`; no uses `emu.exit()`.
+- Habilita acceso de Lua a `io` y `os` mediante `--debug.scriptWindow.allowIoOsAccess=true`.
+- Usa `--doNotSaveSettings` para no mutar el perfil durante QA.
+- Si la captura WonderSwan incluye una franja lateral de Mesen, conserva el PNG original y normaliza el preview a los primeros 224x144 pixeles.
+- No declares PASS si falta la captura, Pillow no puede decodificar el PNG completo, Mesen sale con codigo no cero o la ROM nunca se cargo.
+- No conviertas una comprobacion solicitada en baterias extensas de arranques.
+
+PROCEDIMIENTO
+
+Desde la raiz del paquete:
+
+1. Preparar Mesen:
+
+   ./scripts/prepare_mesen.sh --zip /ruta/Mesen_2.1.1_Linux_x64.zip --dest .tools/mesen-2.1.1
+
+2. Diagnosticar:
+
+   ./scripts/probe_mesen.sh --mesen .tools/mesen-2.1.1/Mesen --rom /ruta/juego.wsc
+
+3. Generar preview nativo sin DISPLAY:
+
+   ./scripts/preview_rom.sh --mesen .tools/mesen-2.1.1/Mesen --rom /ruta/juego.wsc --output previews/boot.png --frame 180 --normalize-wonderswan
+
+4. Para una ruta especifica, sustituir la plantilla Lua:
+
+   ./scripts/preview_rom.sh --mesen .tools/mesen-2.1.1/Mesen --rom /ruta/juego.wsc --lua /ruta/escenario.lua --output previews/escenario.png --normalize-wonderswan
+
+5. Solo si se necesita ver la ventana completa:
+
+   ./scripts/run_mesen_gui.sh --mesen .tools/mesen-2.1.1/Mesen --rom /ruta/juego.wsc --xvfb auto
+
+INTERPRETACION DE ERRORES
+
+- `XOpenDisplay failed` con `--testRunner`: comprobar primero `settings.json` junto a Mesen. No culpar a la ROM.
+- `Cannot establish any listening sockets`: el entorno bloquea sockets X11; usar previews nativos con `--testRunner` o cambiar a un ejecutor con DISPLAY.
+- `std::bad_cast`: revisar perfil portable, locale y compatibilidad de bibliotecas antes de cambiar la ROM.
+- No se creo PNG: revisar que Lua recibio `MESEN_CAPTURE_PATH`, que acceso io/os esta habilitado y que finaliza con `emu.stop()`.
+- PNG mas ancho que 224 en WonderSwan: puede incluir una superposicion lateral; usar `--normalize-wonderswan` y conservar el raw.
+
+ENTREGA ESPERADA
+
+- PNG autentico.
+- JSON de reporte con SHA-256 de ROM/captura, dimensiones y codigo de salida.
+- Log de Mesen.
+- Explicacion breve del modo usado: testRunner sin DISPLAY, DISPLAY existente o GUI bajo Xvfb.
+- Si existe un bloqueo ambiental, reportar la frontera exacta y no fabricar previews.
+
+
+V1.1.0: usa nombres de salida unicos, conserva --timeout-grace y no uses --overwrite si una salida auxiliar coincide con Mesen, perfil, ROM o Lua.

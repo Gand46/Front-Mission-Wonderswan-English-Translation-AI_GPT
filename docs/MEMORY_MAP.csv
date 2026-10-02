@@ -1,0 +1,17 @@
+id,address_class,address,context,description,evidence,certainty
+FM-01,ROM_FILE_OFFSET,0x7427C0,v0.35,Main text pointer table 3358 entries,tools/common.py,confirmed_mapping
+FM-04,ROM_FILE_OFFSET,0x740130,v0.34,Graphic descriptors 483,history/v034/VALIDACION_ES.md,documented
+FM-04,ROM_FILE_OFFSET,0x749B90,v0.34,Graphic descriptors 1616,history/v034/VALIDACION_ES.md,documented
+FM-04,ROM_FILE_OFFSET,0x749BF6,v0.34,Sakata descriptor index 17,history/v034/VALIDACION_ES.md,documented
+FM-04,ROM_FILE_OFFSET,0x00DAEA-0x00ECA1,v0.34,Sakata compressed slot,history/v034/VALIDACION_ES.md,documented
+FM-04,CPU_SEGMENT_OFFSET,4000:6E86,v0.34,RLE decoder,history/v034/VALIDACION_ES.md,observed
+FM-04,VRAM,0x6600-0x7FFF,v0.34,Sakata decompressed destination,history/v034/VALIDACION_ES.md,observed
+FM-05,ROM_FILE_OFFSET,0x74D290,v0.34,Graphic descriptors 873,qa/graphics_preservation.json,documented
+FM-05,CPU_SEGMENT_OFFSET,4000:6D6C,v0.34,Graphic resource copy,history review R1 README,observed_historical
+FM-06,ROM_FILE_OFFSET,0x7CC124,v0.35,Near array 3317,data/repair.json,confirmed_structure
+FM-06,ROM_FILE_OFFSET,0x7CC58C,v0.35,Near array 3339,data/repair.json,confirmed_structure
+FM-06,ROM_FILE_OFFSET,0x7C9F48-0x7CA0D0,v0.35,Reclaimed allocation,qa/build_report.json,confirmed_static
+FM-07,ROM_FILE_OFFSET,0x7EC6A8,v0.35,Native ending index table,docs/VALIDACION_EPILOGO_ES.md,observed_synthetic
+FM-07,CPU_SEGMENT_OFFSET,E000:F9C5,v0.35,Native index fetch,docs/VALIDACION_EPILOGO_ES.md,observed_synthetic
+FM-07,CPU_SEGMENT_OFFSET,6000:CE20,v0.35,Main text lookup and renderer call,docs/VALIDACION_EPILOGO_ES.md,observed_synthetic
+FM-07,WRAM,0x0900 bit 0,v0.35,Battle update bit cleared for synthetic route,docs/VALIDACION_EPILOGO_ES.md,observed_synthetic

@@ -1,0 +1,193 @@
+{
+  "version": "v0.32-TEST",
+  "bank_boundary_fix": {"index": 1011, "original_target": "0x7BFFFB", "original_hex": "c0 54 c0 52 c0 4d bb c0 52 78 75 3a 3f 3b 7b c0 3a fe c0 56 3b bb 3e 37 7f 3b bb 37 77 fe 7e 77 3f 3a 3b 77 7d 3f 3c 3f 3b 3a fe c0 56 37 77 ba 3b 7b bb 77 3b 37 7b bb 7d 3e 3b fe 39 7b 37 7c 3e bb 7c 3f 7d 3b bd ff", "original_text": "USN Soldier:{BR}We have an{BR}unidentified{BR}Wanzer near the{BR}crash site.{END}", "new_target": "0x7C0000", "translation": "USN Soldier:{BR}Unidentified Wanzer{BR}near the crash site.", "reason": "Existing v0.31 record crosses bank end; equivalent concise wording fits wholly within its original allocation in bank 7C."},
+  "status": "STATIC_VALIDATED_RUNTIME_PENDING",
+  "labels": [
+    {
+      "code": "C6:41",
+      "original": "防",
+      "label": "DF",
+      "meaning": "Defense",
+      "offset": "0x26E080",
+      "original_sha256": "23d6053a48f68f73ba6b87a6dd1fbc2f6d37691c47aa1d21127484c2f11b6f45",
+      "main_entry_references": 230
+    },
+    {
+      "code": "C6:42",
+      "original": "攻",
+      "label": "AT",
+      "meaning": "Attack",
+      "offset": "0x26E100",
+      "original_sha256": "eb75fa31366c72dd862f8e163db847e8bc933d23bb45dbba818e9f8c2c97a26b",
+      "main_entry_references": 175
+    },
+    {
+      "code": "C6:43",
+      "original": "重",
+      "label": "WT",
+      "meaning": "Weight",
+      "offset": "0x26E180",
+      "original_sha256": "3a9aff0cd15527ce36e97576316b46164dd46a93be50a3256a8162cb473ae54e",
+      "main_entry_references": 224
+    },
+    {
+      "code": "C6:44",
+      "original": "出",
+      "label": "PW",
+      "meaning": "Power output",
+      "offset": "0x26E200",
+      "original_sha256": "177dcda784650fa908eb7960c14187a9a0e03c75d19d44dd45dcd2676cf95401",
+      "main_entry_references": 78
+    },
+    {
+      "code": "C6:47",
+      "original": "弾",
+      "label": "AM",
+      "meaning": "Ammo",
+      "offset": "0x26E380",
+      "original_sha256": "fa5b35934df77d1999f69dfae838ff38c7fbfbbec29988131b0e12710ceef099",
+      "main_entry_references": 175
+    },
+    {
+      "code": "C6:48",
+      "original": "命",
+      "label": "AC",
+      "meaning": "Accuracy",
+      "offset": "0x26E400",
+      "original_sha256": "4e0768dcfd524a67e327bc5d6ec1303b8c4bcab4d15c68d8e89c38f7374a307a",
+      "main_entry_references": 254
+    },
+    {
+      "code": "C6:4A",
+      "original": "移",
+      "label": "MV",
+      "meaning": "Movement",
+      "offset": "0x26E500",
+      "original_sha256": "048560293610e56c79b2ea3dd2a59ffa0d436ea8f82d81cac4848cd860c84ad0",
+      "main_entry_references": 75
+    },
+    {
+      "code": "C6:4C",
+      "original": "格",
+      "label": "ML",
+      "meaning": "Melee",
+      "offset": "0x26E600",
+      "original_sha256": "f85f456eaa0b179f6c14f75b7df6cfbffd04e88bc03afcfd644bf9bd640f7c74",
+      "main_entry_references": 186
+    },
+    {
+      "code": "C6:4D",
+      "original": "近",
+      "label": "SR",
+      "meaning": "Short range",
+      "offset": "0x26E680",
+      "original_sha256": "b9fe1dc0aba69ca24c3a734448c4ef21157651c88e61bf7a52183a2eebb52665",
+      "main_entry_references": 148
+    },
+    {
+      "code": "C6:4E",
+      "original": "遠",
+      "label": "LR",
+      "meaning": "Long range",
+      "offset": "0x26E700",
+      "original_sha256": "6777dc1af16f375158f2443cf691568733831395ad732bcb6e370ab003195277",
+      "main_entry_references": 85
+    },
+    {
+      "code": "C6:50",
+      "original": "射",
+      "label": "R",
+      "meaning": "Range, first half",
+      "offset": "0x26E800",
+      "original_sha256": "8687f8d6017afd7eb04297ecb90f52cb8dc55d82cf450ac47b21c24e2e3d4fb0",
+      "main_entry_references": 183
+    },
+    {
+      "code": "C6:51",
+      "original": "程",
+      "label": "G",
+      "meaning": "Range, second half",
+      "offset": "0x26E880",
+      "original_sha256": "e58b6a386f0029cc802ed871a318e9ec4bb371b7cc68dcf6ac3611db2da6f8fc",
+      "main_entry_references": 183
+    },
+    {
+      "code": "C6:52",
+      "original": "回",
+      "label": "E",
+      "meaning": "Evade, first half",
+      "offset": "0x26E900",
+      "original_sha256": "00ffa271125e473a62ad56930042d6a01dd14ad4eac4539e8c3639e698375571",
+      "main_entry_references": 51
+    },
+    {
+      "code": "C6:53",
+      "original": "避",
+      "label": "V",
+      "meaning": "Evade, second half",
+      "offset": "0x26E980",
+      "original_sha256": "0419679c8662c20a3f0d4608341f353133da7b84278c7abfc5a04960b4118df8",
+      "main_entry_references": 51
+    },
+    {
+      "code": "C6:54",
+      "original": "対",
+      "label": "A",
+      "meaning": "Anti-personnel, first half",
+      "offset": "0x26EA00",
+      "original_sha256": "7574ee290023f2a7f2d92adc447ee163940ad5b20365cbde3cde17b9f6751759",
+      "main_entry_references": 8
+    },
+    {
+      "code": "C6:55",
+      "original": "人",
+      "label": "P",
+      "meaning": "Anti-personnel, second half",
+      "offset": "0x26EA80",
+      "original_sha256": "87c2c8d5f79711f9958a2fab6aa19564f05a112e19fd81052b83fdfdf2561ce3",
+      "main_entry_references": 8
+    }
+  ],
+  "tests": [
+    {
+      "index": 2099,
+      "original_target": "0x7C0F1F",
+      "original_hex": "fc 01 c0 3a fe 12 0c 13 ff",
+      "original_text": "{FC:01}:{BR}てすと{END}",
+      "translation": "test",
+      "note": "Technical placeholder; speech-ending variants normalized to test. Runtime use unproven."
+    },
+    {
+      "index": 2100,
+      "original_target": "0x7C0F28",
+      "original_hex": "fc 01 c0 3a fe 12 0c 13 4a 2b 0a ff",
+      "original_text": "{FC:01}:{BR}てすとだわさ{END}",
+      "translation": "test",
+      "note": "Technical placeholder; speech-ending variants normalized to test. Runtime use unproven."
+    },
+    {
+      "index": 2101,
+      "original_target": "0x7C0F34",
+      "original_hex": "fc 01 c0 3a fe 12 0c 13 4a 55 36 c4 80 ff",
+      "original_text": "{FC:01}:{BR}てすとだぴょー{END}",
+      "translation": "test",
+      "note": "Technical placeholder; speech-ending variants normalized to test. Runtime use unproven."
+    },
+    {
+      "index": 2102,
+      "original_target": "0x7C0F42",
+      "original_hex": "fc 01 c0 3a fe 12 0c 13 ff",
+      "original_text": "{FC:01}:{BR}てすと{END}",
+      "translation": "test",
+      "note": "Technical placeholder; speech-ending variants normalized to test. Runtime use unproven."
+    },
+    {
+      "index": 2103,
+      "original_target": "0x7C0F4B",
+      "original_hex": "fc 01 c0 3a fe 12 0c 13 ff",
+      "original_text": "{FC:01}:{BR}てすと{END}",
+      "translation": "test",
+      "note": "Technical placeholder; speech-ending variants normalized to test. Runtime use unproven."
+    }
+  ]
+}

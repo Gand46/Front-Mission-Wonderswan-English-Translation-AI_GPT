@@ -1,0 +1,25 @@
+{
+  "rom_sha256": "4d6a19c8a69c61edf92ccab3c17ec007f942faec66e6ffe7b68bdbb98450b263",
+  "mesen_sha256": "ae43f1438282aaaff90a009aa8ada648bc5d631b070656285d7de9cbff513b41",
+  "natural_frames": 15000,
+  "advertisements": 10,
+  "injection": false,
+  "all_ten_descriptors_read": true,
+  "sakata_rom_decode_equals_captured_vram": true,
+  "vram_sha256": "4b135377e341f302535bc43b3dc5a99518c9c454e19d80a06277155d8bd71561",
+  "changed_screen_bbox_exclusive": [
+    55,
+    123,
+    168,
+    141
+  ],
+  "other_screen_pixels_unchanged": true,
+  "visual_review": "All 10 natural screenshots examined; captions English; no clipping observed",
+  "linguistic_review": {
+    "source": "新発売!!",
+    "translation": "NEW RELEASE!!",
+    "context": "new product advertisement",
+    "status": "APPROVED_FOR_THIS_CAPTION"
+  },
+  "global_approval": false
+}
